@@ -1,0 +1,14 @@
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\bin\Debug\net8.0\EjerciciosPrePrimerParcial.exe
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\bin\Debug\net8.0\EjerciciosPrePrimerParcial.deps.json
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\bin\Debug\net8.0\EjerciciosPrePrimerParcial.runtimeconfig.json
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\bin\Debug\net8.0\EjerciciosPrePrimerParcial.dll
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\bin\Debug\net8.0\EjerciciosPrePrimerParcial.pdb
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\obj\Debug\net8.0\EjerciciosPrePrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\obj\Debug\net8.0\EjerciciosPrePrimerParcial.AssemblyInfoInputs.cache
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\obj\Debug\net8.0\EjerciciosPrePrimerParcial.AssemblyInfo.cs
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\obj\Debug\net8.0\EjerciciosPrePrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\obj\Debug\net8.0\EjerciciosPrePrimerParcial.dll
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\obj\Debug\net8.0\refint\EjerciciosPrePrimerParcial.dll
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\obj\Debug\net8.0\EjerciciosPrePrimerParcial.pdb
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\obj\Debug\net8.0\EjerciciosPrePrimerParcial.genruntimeconfig.cache
+C:\Users\juani\source\repos\EjerciciosPrePrimerParcial\obj\Debug\net8.0\ref\EjerciciosPrePrimerParcial.dll

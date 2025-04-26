@@ -1,0 +1,14 @@
+C:\Users\juani\source\repos\EjerciciosFor\bin\Debug\net8.0\EjerciciosFor.exe
+C:\Users\juani\source\repos\EjerciciosFor\bin\Debug\net8.0\EjerciciosFor.deps.json
+C:\Users\juani\source\repos\EjerciciosFor\bin\Debug\net8.0\EjerciciosFor.runtimeconfig.json
+C:\Users\juani\source\repos\EjerciciosFor\bin\Debug\net8.0\EjerciciosFor.dll
+C:\Users\juani\source\repos\EjerciciosFor\bin\Debug\net8.0\EjerciciosFor.pdb
+C:\Users\juani\source\repos\EjerciciosFor\obj\Debug\net8.0\EjerciciosFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\source\repos\EjerciciosFor\obj\Debug\net8.0\EjerciciosFor.AssemblyInfoInputs.cache
+C:\Users\juani\source\repos\EjerciciosFor\obj\Debug\net8.0\EjerciciosFor.AssemblyInfo.cs
+C:\Users\juani\source\repos\EjerciciosFor\obj\Debug\net8.0\EjerciciosFor.csproj.CoreCompileInputs.cache
+C:\Users\juani\source\repos\EjerciciosFor\obj\Debug\net8.0\EjerciciosFor.dll
+C:\Users\juani\source\repos\EjerciciosFor\obj\Debug\net8.0\refint\EjerciciosFor.dll
+C:\Users\juani\source\repos\EjerciciosFor\obj\Debug\net8.0\EjerciciosFor.pdb
+C:\Users\juani\source\repos\EjerciciosFor\obj\Debug\net8.0\EjerciciosFor.genruntimeconfig.cache
+C:\Users\juani\source\repos\EjerciciosFor\obj\Debug\net8.0\ref\EjerciciosFor.dll

@@ -1,0 +1,14 @@
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\bin\Debug\net8.0\EjerciciosPseudocódigo.exe
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\bin\Debug\net8.0\EjerciciosPseudocódigo.deps.json
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\bin\Debug\net8.0\EjerciciosPseudocódigo.runtimeconfig.json
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\bin\Debug\net8.0\EjerciciosPseudocódigo.dll
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\bin\Debug\net8.0\EjerciciosPseudocódigo.pdb
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\obj\Debug\net8.0\EjerciciosPseudocódigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\obj\Debug\net8.0\EjerciciosPseudocódigo.AssemblyInfoInputs.cache
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\obj\Debug\net8.0\EjerciciosPseudocódigo.AssemblyInfo.cs
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\obj\Debug\net8.0\EjerciciosPseudocódigo.csproj.CoreCompileInputs.cache
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\obj\Debug\net8.0\EjerciciosPseudocódigo.dll
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\obj\Debug\net8.0\refint\EjerciciosPseudocódigo.dll
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\obj\Debug\net8.0\EjerciciosPseudocódigo.pdb
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\obj\Debug\net8.0\EjerciciosPseudocódigo.genruntimeconfig.cache
+C:\Users\juani\source\repos\EjerciciosPseudocódigo\obj\Debug\net8.0\ref\EjerciciosPseudocódigo.dll

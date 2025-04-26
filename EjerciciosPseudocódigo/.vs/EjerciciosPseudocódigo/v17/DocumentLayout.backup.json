@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\source\\repos\\EjerciciosPseudoc\u00F3digo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2165BB7C-5BD1-42D9-8CF6-2FD308E1A583}|EjerciciosPseudoc\u00F3digo.csproj|c:\\users\\juani\\source\\repos\\ejerciciospseudoc\u00F3digo\\tanda1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2165BB7C-5BD1-42D9-8CF6-2FD308E1A583}|EjerciciosPseudoc\u00F3digo.csproj|solutionrelative:tanda1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165BB7C-5BD1-42D9-8CF6-2FD308E1A583}|EjerciciosPseudoc\u00F3digo.csproj|c:\\users\\juani\\source\\repos\\ejerciciospseudoc\u00F3digo\\tanda2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2165BB7C-5BD1-42D9-8CF6-2FD308E1A583}|EjerciciosPseudoc\u00F3digo.csproj|solutionrelative:tanda2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165BB7C-5BD1-42D9-8CF6-2FD308E1A583}|EjerciciosPseudoc\u00F3digo.csproj|c:\\users\\juani\\source\\repos\\ejerciciospseudoc\u00F3digo\\ejerciciospseudoc\u00F3digo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2165BB7C-5BD1-42D9-8CF6-2FD308E1A583}|EjerciciosPseudoc\u00F3digo.csproj|solutionrelative:ejerciciospseudoc\u00F3digo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tanda2.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\source\\repos\\EjerciciosPseudoc\u00F3digo\\Tanda2.cs",
+              "RelativeDocumentMoniker": "Tanda2.cs",
+              "ToolTip": "C:\\Users\\juani\\source\\repos\\EjerciciosPseudoc\u00F3digo\\Tanda2.cs",
+              "RelativeToolTip": "Tanda2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:00:58.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EjerciciosPseudoc\u00F3digo.csproj",
+              "DocumentMoniker": "C:\\Users\\juani\\source\\repos\\EjerciciosPseudoc\u00F3digo\\EjerciciosPseudoc\u00F3digo.csproj",
+              "RelativeDocumentMoniker": "EjerciciosPseudoc\u00F3digo.csproj",
+              "ToolTip": "C:\\Users\\juani\\source\\repos\\EjerciciosPseudoc\u00F3digo\\EjerciciosPseudoc\u00F3digo.csproj",
+              "RelativeToolTip": "EjerciciosPseudoc\u00F3digo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T21:50:01.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tanda1.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\source\\repos\\EjerciciosPseudoc\u00F3digo\\Tanda1.cs",
+              "RelativeDocumentMoniker": "Tanda1.cs",
+              "ToolTip": "C:\\Users\\juani\\source\\repos\\EjerciciosPseudoc\u00F3digo\\Tanda1.cs",
+              "RelativeToolTip": "Tanda1.cs",
+              "ViewState": "AgIAAB8CAAAAAAAAAAAAACgCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:27:06.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
