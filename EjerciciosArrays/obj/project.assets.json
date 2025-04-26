@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juani\\source\\repos\\EjerciciosArrays\\EjerciciosArrays.csproj",
+      "projectUniqueName": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\EjerciciosArrays.csproj",
       "projectName": "EjerciciosArrays",
-      "projectPath": "C:\\Users\\juani\\source\\repos\\EjerciciosArrays\\EjerciciosArrays.csproj",
+      "projectPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\EjerciciosArrays.csproj",
       "packagesPath": "C:\\Users\\juani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juani\\source\\repos\\EjerciciosArrays\\obj\\",
+      "outputPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
