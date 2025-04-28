@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8571E396-9F17-47A0-A982-177C2DA5E284}|EjerciciosArrays.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciosarrays\\ejercicio16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8571E396-9F17-47A0-A982-177C2DA5E284}|EjerciciosArrays.csproj|solutionrelative:ejercicio16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8571E396-9F17-47A0-A982-177C2DA5E284}|EjerciciosArrays.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciosarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8571E396-9F17-47A0-A982-177C2DA5E284}|EjerciciosArrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8571E396-9F17-47A0-A982-177C2DA5E284}|EjerciciosArrays.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciosarrays\\ejercicio15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8571E396-9F17-47A0-A982-177C2DA5E284}|EjerciciosArrays.csproj|solutionrelative:ejercicio15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8571E396-9F17-47A0-A982-177C2DA5E284}|EjerciciosArrays.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciosarrays\\ejercicio14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,50 +74,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ejercicio14.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio14.cs",
-              "RelativeDocumentMoniker": "Ejercicio14.cs",
-              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio14.cs",
-              "RelativeToolTip": "Ejercicio14.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAIwDAAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio16.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio16.cs",
+              "RelativeDocumentMoniker": "Ejercicio16.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio16.cs",
+              "RelativeToolTip": "Ejercicio16.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T13:43:15.598Z",
+              "WhenOpened": "2025-04-28T14:35:37.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ejercicio13.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio13.cs",
-              "RelativeDocumentMoniker": "Ejercicio13.cs",
-              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio13.cs",
-              "RelativeToolTip": "Ejercicio13.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABpAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio15.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio15.cs",
+              "RelativeDocumentMoniker": "Ejercicio15.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio15.cs",
+              "RelativeToolTip": "Ejercicio15.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T13:15:57.614Z",
+              "WhenOpened": "2025-04-28T14:26:08.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ejercicio12.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio12.cs",
-              "RelativeDocumentMoniker": "Ejercicio12.cs",
-              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio12.cs",
-              "RelativeToolTip": "Ejercicio12.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T13:01:50.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Ejercicio11.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio11.cs",
               "RelativeDocumentMoniker": "Ejercicio11.cs",
@@ -117,12 +112,11 @@
               "RelativeToolTip": "Ejercicio11.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T23:16:38.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T23:16:38.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Ejercicio10.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio10.cs",
               "RelativeDocumentMoniker": "Ejercicio10.cs",
@@ -130,12 +124,11 @@
               "RelativeToolTip": "Ejercicio10.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T22:58:21.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T22:58:21.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Ejercicio9.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio9.cs",
               "RelativeDocumentMoniker": "Ejercicio9.cs",
@@ -147,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Ejercicio8.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio8.cs",
               "RelativeDocumentMoniker": "Ejercicio8.cs",
@@ -159,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -172,7 +165,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "Ejercicio12.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio12.cs",
+              "RelativeDocumentMoniker": "Ejercicio12.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio12.cs",
+              "RelativeToolTip": "Ejercicio12.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:01:50.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejercicio13.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio13.cs",
+              "RelativeDocumentMoniker": "Ejercicio13.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio13.cs",
+              "RelativeToolTip": "Ejercicio13.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:15:57.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio14.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio14.cs",
+              "RelativeDocumentMoniker": "Ejercicio14.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio14.cs",
+              "RelativeToolTip": "Ejercicio14.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:43:15.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Ejercicio6.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio6.cs",
               "RelativeDocumentMoniker": "Ejercicio6.cs",
@@ -184,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Ejercicio5.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio5.cs",
               "RelativeDocumentMoniker": "Ejercicio5.cs",
@@ -196,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Ejercicio4.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio4.cs",
               "RelativeDocumentMoniker": "Ejercicio4.cs",
@@ -208,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Ejercicio3.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio3.cs",
               "RelativeDocumentMoniker": "Ejercicio3.cs",
@@ -220,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Ejercicio2.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio2.cs",
               "RelativeDocumentMoniker": "Ejercicio2.cs",
@@ -232,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Ejercicio1.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosArrays\\Ejercicio1.cs",
               "RelativeDocumentMoniker": "Ejercicio1.cs",
