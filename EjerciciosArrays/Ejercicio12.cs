@@ -14,9 +14,9 @@ namespace EjerciciosArrays
 
             List<int> lista = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9,7, 3, 10 };
 
-            for (int i = 0; i < lista.Count; i++)
+            for (int i = 0; i < lista.Count - 2; i++)
             {
-                for (int j = i+1; j < lista.Count; j++)
+                for (int j = i+1; j < lista.Count - 1; j++)
                 {
 
                     if (lista[i] == lista[j])
