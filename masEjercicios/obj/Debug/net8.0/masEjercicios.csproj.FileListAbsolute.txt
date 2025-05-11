@@ -1,0 +1,15 @@
+C:\GitHub\PracticaProgramacion\masEjercicios\bin\Debug\net8.0\masEjercicios.exe
+C:\GitHub\PracticaProgramacion\masEjercicios\bin\Debug\net8.0\masEjercicios.deps.json
+C:\GitHub\PracticaProgramacion\masEjercicios\bin\Debug\net8.0\masEjercicios.runtimeconfig.json
+C:\GitHub\PracticaProgramacion\masEjercicios\bin\Debug\net8.0\masEjercicios.dll
+C:\GitHub\PracticaProgramacion\masEjercicios\bin\Debug\net8.0\masEjercicios.pdb
+C:\GitHub\PracticaProgramacion\masEjercicios\obj\Debug\net8.0\masEjercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\PracticaProgramacion\masEjercicios\obj\Debug\net8.0\masEjercicios.AssemblyInfoInputs.cache
+C:\GitHub\PracticaProgramacion\masEjercicios\obj\Debug\net8.0\masEjercicios.AssemblyInfo.cs
+C:\GitHub\PracticaProgramacion\masEjercicios\obj\Debug\net8.0\masEjercicios.csproj.CoreCompileInputs.cache
+C:\GitHub\PracticaProgramacion\masEjercicios\obj\Debug\net8.0\masEjercicios.sourcelink.json
+C:\GitHub\PracticaProgramacion\masEjercicios\obj\Debug\net8.0\masEjercicios.dll
+C:\GitHub\PracticaProgramacion\masEjercicios\obj\Debug\net8.0\refint\masEjercicios.dll
+C:\GitHub\PracticaProgramacion\masEjercicios\obj\Debug\net8.0\masEjercicios.pdb
+C:\GitHub\PracticaProgramacion\masEjercicios\obj\Debug\net8.0\masEjercicios.genruntimeconfig.cache
+C:\GitHub\PracticaProgramacion\masEjercicios\obj\Debug\net8.0\ref\masEjercicios.dll
