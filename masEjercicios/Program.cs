@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            ProbandoCosas.Ejecutar();
+            Ejercicio2.Ejecutar();
 
         }
     }
