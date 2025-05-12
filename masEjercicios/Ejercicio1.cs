@@ -35,7 +35,21 @@ namespace masEjercicios
             {
                 Console.WriteLine($"Usuario {i + 1}: Ingrese su calificación del servicio (1 al 5)");
 
-                int calificacion = int.Parse(Console.ReadLine());
+                string txt = Console.ReadLine();
+
+                int calificacion;
+
+                bool conver = int.TryParse(txt, out calificacion);
+
+                while (conver == false)
+                {
+                    Console.WriteLine("Valor incorrecto, ingréselo de vuelta");
+
+                    txt = Console.ReadLine();
+
+                    conver = int.TryParse(txt, out calificacion);
+
+                }
 
                 if (calificacion < 6 && calificacion > 1) calificaciones[calificacion - 1]++;
                 else

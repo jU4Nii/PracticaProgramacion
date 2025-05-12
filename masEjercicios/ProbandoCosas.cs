@@ -12,29 +12,45 @@ namespace masEjercicios
         public static void Ejecutar()
         {
 
-            Console.WriteLine("Escriba un número");
+            List<int> lista = new List<int>();
 
-            string texto = Console.ReadLine();
+            int num = int.Parse(Console.ReadLine());
 
-            int numero;
-
-            bool conversion = int.TryParse(texto, out numero);
-            
-            while(conversion == false)
+            while (num != 0)
             {
-                Console.WriteLine("Ingresaste un string, debes ingresar un número");
+                lista.Add(num);
 
-                texto = Console.ReadLine();
-
-                conversion = int.TryParse(texto, out numero);
-
+                num = int.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine($"Conversión hecha, numero ingresado: {numero}");
+            foreach (int n in lista)
+            {
+                Console.WriteLine(n);
+            }
 
-            int calificacion1, calificacion2, calificacion3, calificacion4, calificacion5;
+                //Console.WriteLine("Escriba un número");
 
-        }
+                //string texto = Console.ReadLine();
+
+                //int numero;
+
+                //bool conversion = int.TryParse(texto, out numero);
+
+                //while(conversion == false)
+                //{
+                //    Console.WriteLine("Ingresaste un string, debes ingresar un número");
+
+                //    texto = Console.ReadLine();
+
+                //    conversion = int.TryParse(texto, out numero);
+
+                //}
+
+                //Console.WriteLine($"Conversión hecha, numero ingresado: {numero}");
+
+                //int calificacion1, calificacion2, calificacion3, calificacion4, calificacion5;
+
+            }
 
     }
 }
