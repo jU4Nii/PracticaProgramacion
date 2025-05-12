@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\masEjercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\github\\practicaprogramacion\\masejercicios\\probandocosas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\masejercicios\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\masejercicios\\probandocosas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|solutionrelative:probandocosas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\github\\practicaprogramacion\\masejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\masejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,28 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\masEjercicios\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\masEjercicios\\Ejercicio1.cs",
+              "RelativeToolTip": "Ejercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:14:52.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProbandoCosas.cs",
-              "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\ProbandoCosas.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\masEjercicios\\ProbandoCosas.cs",
               "RelativeDocumentMoniker": "ProbandoCosas.cs",
-              "ToolTip": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\ProbandoCosas.cs*",
-              "RelativeToolTip": "ProbandoCosas.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\masEjercicios\\ProbandoCosas.cs",
+              "RelativeToolTip": "ProbandoCosas.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCIAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T17:57:09.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\masEjercicios\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\masEjercicios\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T17:56:10.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T17:56:10.081Z"
             }
           ]
         }

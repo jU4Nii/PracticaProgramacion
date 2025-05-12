@@ -32,6 +32,8 @@ namespace masEjercicios
 
             Console.WriteLine($"Conversión hecha, numero ingresado: {numero}");
 
+            int calificacion1, calificacion2, calificacion3, calificacion4, calificacion5;
+
         }
 
     }
