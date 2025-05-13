@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciosparciala\u00F1opasado\\ejercicio1parcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|solutionrelative:ejercicio1parcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciosparciala\u00F1opasado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio1Parcial.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\Ejercicio1Parcial.cs",
+              "RelativeDocumentMoniker": "Ejercicio1Parcial.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\Ejercicio1Parcial.cs",
+              "RelativeToolTip": "Ejercicio1Parcial.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:09:22.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:08:48.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\bin\Debug\net8.0\EjerciciosParcialAñoPasado.exe
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\bin\Debug\net8.0\EjerciciosParcialAñoPasado.deps.json
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\bin\Debug\net8.0\EjerciciosParcialAñoPasado.runtimeconfig.json
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\bin\Debug\net8.0\EjerciciosParcialAñoPasado.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\bin\Debug\net8.0\EjerciciosParcialAñoPasado.pdb
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\obj\Debug\net8.0\EjerciciosParcialAñoPasado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\obj\Debug\net8.0\EjerciciosParcialAñoPasado.AssemblyInfoInputs.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\obj\Debug\net8.0\EjerciciosParcialAñoPasado.AssemblyInfo.cs
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\obj\Debug\net8.0\EjerciciosParcialAñoPasado.csproj.CoreCompileInputs.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\obj\Debug\net8.0\EjerciciosParcialAñoPasado.sourcelink.json
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\obj\Debug\net8.0\EjerciciosParcialAñoPasado.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\obj\Debug\net8.0\refint\EjerciciosParcialAñoPasado.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\obj\Debug\net8.0\EjerciciosParcialAñoPasado.pdb
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\obj\Debug\net8.0\EjerciciosParcialAñoPasado.genruntimeconfig.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjerciciosParcialAñoPasado\obj\Debug\net8.0\ref\EjerciciosParcialAñoPasado.dll
