@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\github\\practicaprogramacion\\masejercicios\\ejercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|solutionrelative:ejercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\github\\practicaprogramacion\\masejercicios\\ejercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|solutionrelative:ejercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\github\\practicaprogramacion\\masejercicios\\ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|solutionrelative:ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\github\\practicaprogramacion\\masejercicios\\probandocosas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|solutionrelative:probandocosas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\github\\practicaprogramacion\\masejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\github\\practicaprogramacion\\masejercicios\\probandocosas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|solutionrelative:probandocosas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\github\\practicaprogramacion\\masejercicios\\ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|solutionrelative:ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\github\\practicaprogramacion\\masejercicios\\ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|solutionrelative:ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51F65EDB-33A2-45CA-ABCD-E21F25B106FD}|masEjercicios.csproj|c:\\github\\practicaprogramacion\\masejercicios\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,19 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ejercicio9.cs",
+              "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Ejercicio9.cs",
+              "RelativeDocumentMoniker": "Ejercicio9.cs",
+              "ToolTip": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Ejercicio9.cs",
+              "RelativeToolTip": "Ejercicio9.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:11:08.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Ejercicio8.cs",
               "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Ejercicio8.cs",
               "RelativeDocumentMoniker": "Ejercicio8.cs",
               "ToolTip": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Ejercicio8.cs",
               "RelativeToolTip": "Ejercicio8.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwA4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T22:52:40.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Ejercicio7.cs",
               "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Ejercicio7.cs",
               "RelativeDocumentMoniker": "Ejercicio7.cs",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Ejercicio6.cs",
               "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Ejercicio6.cs",
               "RelativeDocumentMoniker": "Ejercicio6.cs",
@@ -88,12 +105,11 @@
               "RelativeToolTip": "Ejercicio6.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAmwBMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T22:06:24.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T22:06:24.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Ejercicio5.cs",
               "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Ejercicio5.cs",
               "RelativeDocumentMoniker": "Ejercicio5.cs",
@@ -101,12 +117,11 @@
               "RelativeToolTip": "Ejercicio5.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T21:34:36.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T21:34:36.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Ejercicio4.cs",
               "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Ejercicio4.cs",
               "RelativeDocumentMoniker": "Ejercicio4.cs",
@@ -114,12 +129,11 @@
               "RelativeToolTip": "Ejercicio4.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T18:58:58.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T18:58:58.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Ejercicio1.cs",
               "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Ejercicio1.cs",
               "RelativeDocumentMoniker": "Ejercicio1.cs",
@@ -127,8 +141,7 @@
               "RelativeToolTip": "Ejercicio1.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwDMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:14:52.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T19:14:52.855Z"
             },
             {
               "$type": "Document",
@@ -138,27 +151,27 @@
               "RelativeDocumentMoniker": "ProbandoCosas.cs",
               "ToolTip": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\ProbandoCosas.cs",
               "RelativeToolTip": "ProbandoCosas.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T17:57:09.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T17:56:10.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Ejercicio2.cs",
               "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Ejercicio2.cs",
               "RelativeDocumentMoniker": "Ejercicio2.cs",
@@ -170,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Ejercicio3.cs",
               "DocumentMoniker": "C:\\GitHub\\PracticaProgramacion\\masEjercicios\\Ejercicio3.cs",
               "RelativeDocumentMoniker": "Ejercicio3.cs",
