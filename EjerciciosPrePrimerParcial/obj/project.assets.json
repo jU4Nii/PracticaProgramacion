@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\EjerciciosPrePrimerParcial.csproj",
+      "projectUniqueName": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\EjerciciosPrePrimerParcial.csproj",
       "projectName": "EjerciciosPrePrimerParcial",
-      "projectPath": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\EjerciciosPrePrimerParcial.csproj",
+      "projectPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\EjerciciosPrePrimerParcial.csproj",
       "packagesPath": "C:\\Users\\juani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\obj\\",
+      "outputPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

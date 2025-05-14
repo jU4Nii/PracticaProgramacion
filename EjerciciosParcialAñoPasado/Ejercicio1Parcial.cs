@@ -49,7 +49,27 @@ namespace EjerciciosParcialAñoPasado
                 }
             }
 
-            List<int> listaImpares = lista.Where(n => n % 2 != 0).OrderByDescending(x => x).ToList();
+            List<int> listaImpares = lista.Where(n => n % 2 != 0).ToList();
+
+            for (int i = 0; i < listaImpares.Count - 1; i++)
+            {
+                for (int j = 0; j < listaImpares.Count - 1 - i; j++)
+                {
+                    if (listaImpares[j] < listaImpares[j + 1])
+                    {
+
+                        int temp = listaImpares[j];
+                        listaImpares[j] = listaImpares[j + 1];
+                        listaImpares[j + 1] = temp;
+
+
+                    }
+
+
+                }
+
+
+            }
 
             foreach(int n in listaImpares)
             {

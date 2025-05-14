@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjerciciosParcialAñoPasado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bcb1800849fe1e4b995f76a8f2a9e2d8b51cb37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+727d6fe16a945d7d9ef6e0de1baab5ed41bb1744")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjerciciosParcialAñoPasado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjerciciosParcialAñoPasado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

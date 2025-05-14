@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\",
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|c:\\users\\juani\\source\\repos\\ejerciciospreprimerparcial\\ejerciciodifferenceofsquares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciospreprimerparcial\\ejerciciodifferenceofsquares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|solutionrelative:ejerciciodifferenceofsquares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|c:\\users\\juani\\source\\repos\\ejerciciospreprimerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciospreprimerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|c:\\users\\juani\\source\\repos\\ejerciciospreprimerparcial\\ejerciciocollatzconjecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciospreprimerparcial\\ejerciciocollatzconjecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|solutionrelative:ejerciciocollatzconjecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|c:\\users\\juani\\source\\repos\\ejerciciospreprimerparcial\\ejerciciohamming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciospreprimerparcial\\ejerciciohamming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63CC5380-F3A5-4983-BBAB-FD9EF4E17762}|EjerciciosPrePrimerParcial.csproj|solutionrelative:ejerciciohamming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EjercicioDifferenceOfSquares.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\EjercicioDifferenceOfSquares.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\EjercicioDifferenceOfSquares.cs",
               "RelativeDocumentMoniker": "EjercicioDifferenceOfSquares.cs",
-              "ToolTip": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\EjercicioDifferenceOfSquares.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\EjercicioDifferenceOfSquares.cs",
               "RelativeToolTip": "EjercicioDifferenceOfSquares.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T23:40:30.776Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "EjercicioCollatzConjecture.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\EjercicioCollatzConjecture.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\EjercicioCollatzConjecture.cs",
               "RelativeDocumentMoniker": "EjercicioCollatzConjecture.cs",
-              "ToolTip": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\EjercicioCollatzConjecture.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\EjercicioCollatzConjecture.cs",
               "RelativeToolTip": "EjercicioCollatzConjecture.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EjercicioHamming.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\EjercicioHamming.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\EjercicioHamming.cs",
               "RelativeDocumentMoniker": "EjercicioHamming.cs",
-              "ToolTip": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\EjercicioHamming.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\EjercicioHamming.cs",
               "RelativeToolTip": "EjercicioHamming.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,14 +69,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\juani\\source\\repos\\EjerciciosPrePrimerParcial\\Program.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosPrePrimerParcial\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T22:06:12.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T22:06:12.424Z"
             }
           ]
         }

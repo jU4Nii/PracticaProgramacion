@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Ejercicio1Parcial.Ejecutar();
+            Ejercicio2Recuperatorio.Ejecutar();
         }
     }
 }
