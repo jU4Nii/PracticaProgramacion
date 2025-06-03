@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciosparciala\u00F1opasado\\ejercicio1parcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|solutionrelative:ejercicio1parcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciosparciala\u00F1opasado\\ejercicio2recuperatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|solutionrelative:ejercicio2recuperatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciosparciala\u00F1opasado\\ejercicio1recuperatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|solutionrelative:ejercicio1recuperatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciosparciala\u00F1opasado\\ejercicio1parcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE28F0D8-7E4B-4AB4-A355-D9FF47E9CC8A}|EjerciciosParcialA\u00F1oPasado.csproj|solutionrelative:ejercicio1parcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Ejercicio2Parcial.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\Ejercicio2Parcial.cs",
               "RelativeDocumentMoniker": "Ejercicio2Parcial.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "Ejercicio2Parcial.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T13:12:12.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T13:12:12.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Ejercicio2Recuperatorio.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\Ejercicio2Recuperatorio.cs",
               "RelativeDocumentMoniker": "Ejercicio2Recuperatorio.cs",
@@ -60,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Ejercicio1Recuperatorio.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\Ejercicio1Recuperatorio.cs",
               "RelativeDocumentMoniker": "Ejercicio1Recuperatorio.cs",
@@ -68,25 +67,24 @@
               "RelativeToolTip": "Ejercicio1Recuperatorio.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T13:43:06.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T13:43:06.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Ejercicio1Parcial.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\Ejercicio1Parcial.cs",
               "RelativeDocumentMoniker": "Ejercicio1Parcial.cs",
               "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\Ejercicio1Parcial.cs",
               "RelativeToolTip": "Ejercicio1Parcial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T20:09:22.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjerciciosParcialA\u00F1oPasado\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T20:08:48.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T20:08:48.723Z"
             }
           ]
         }
