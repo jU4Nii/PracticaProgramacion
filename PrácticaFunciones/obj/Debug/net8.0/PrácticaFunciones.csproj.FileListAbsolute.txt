@@ -1,0 +1,15 @@
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\bin\Debug\net8.0\PrácticaFunciones.exe
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\bin\Debug\net8.0\PrácticaFunciones.deps.json
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\bin\Debug\net8.0\PrácticaFunciones.runtimeconfig.json
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\bin\Debug\net8.0\PrácticaFunciones.dll
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\bin\Debug\net8.0\PrácticaFunciones.pdb
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\obj\Debug\net8.0\PrácticaFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\obj\Debug\net8.0\PrácticaFunciones.AssemblyInfoInputs.cache
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\obj\Debug\net8.0\PrácticaFunciones.AssemblyInfo.cs
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\obj\Debug\net8.0\PrácticaFunciones.csproj.CoreCompileInputs.cache
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\obj\Debug\net8.0\PrácticaFunciones.sourcelink.json
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\obj\Debug\net8.0\PrácticaFunciones.dll
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\obj\Debug\net8.0\refint\PrácticaFunciones.dll
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\obj\Debug\net8.0\PrácticaFunciones.pdb
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\obj\Debug\net8.0\PrácticaFunciones.genruntimeconfig.cache
+C:\GitHub\PracticaProgramacion\PrácticaFunciones\obj\Debug\net8.0\ref\PrácticaFunciones.dll
