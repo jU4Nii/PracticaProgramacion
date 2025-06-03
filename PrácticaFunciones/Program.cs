@@ -1,4 +1,6 @@
-﻿namespace PrácticaFunciones
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace PrácticaFunciones
 {
     internal class Program
     {
@@ -6,10 +8,14 @@
         {
             //1. double probandoSuma = Sumar(64, 2.5);
 
-            //2.List<int> list = new List<int> { 1, 2, 3, 4, 5 };
+            //2. List<int> list = new List<int> { 1, 2, 3, 4, 5 };
             //int sumaNumerosLista = SumarLista(list);
 
+            //3. double a = Multiplicar(2, 3);
 
+            //4. int cantidadVocales = ContarVocales("juani");
+
+            //5. string palabraReLarga = buscarPalabraMasLarga("A la Pili le encanta el sexo ANAAAAAAAAAL");
             
 
         }
@@ -43,7 +49,94 @@
 
         }
 
-        //3. 
+        //3. Crea una función que reciba 2 números y devuelva su multiplicación.
+        static double Multiplicar(double n1, double n2)
+        {
+
+            double multiplicar = n1 * n2;
+
+            Console.WriteLine($"La multiplicación entre {n1} y {n2} es {multiplicar}");
+
+            return multiplicar;
+
+        }
+
+        //4. Crea una función que reciba un string y devuelva la cantidad de vocales que contiene.
+        static int ContarVocales(string palabra)
+        {
+            char[] vocales = { 'a', 'e', 'i', 'o', 'u' };
+
+            int contadorVocales = 0;
+
+            palabra = palabra.ToLower();
+
+            for (int i = 0; i < palabra.Length; i++)
+            {
+                for (int j = 0; j < vocales.Length; j++)
+                {
+
+                    if (palabra[i] == vocales[j])
+                    {
+
+                        contadorVocales++;
+
+                    }
+                }
+            }
+
+            Console.WriteLine($"La cantidad de vocales que tiene la palabra es {contadorVocales}");
+
+            return contadorVocales;
+        }
+
+        //5. Crea una función que reciba un texto con varias palabras separadas por espacios y devuelve la palabra más larga.
+        static string buscarPalabraMasLarga(string texto)
+        {
+            
+            string[] palabras = texto.Split(' ');
+
+            List<string> palabrasLimpias = new List<string>();
+
+            foreach (string palabra in palabras)
+            {
+                string limpia = new string(palabra.Where(char.IsLetterOrDigit).ToArray());
+                palabrasLimpias.Add(limpia);
+            }
+
+            int maxPalabra = 0;
+            string palabraDeMasLongitud = string.Empty;
+
+            for (int i = 0; i < palabrasLimpias.Count; i++)
+            {
+                if (palabrasLimpias[i].Length > maxPalabra)
+                {
+
+                    maxPalabra = palabrasLimpias[i].Length;
+
+                    palabraDeMasLongitud = palabrasLimpias[i];
+
+                }
+
+            }
+
+            Console.WriteLine($"La palabra más larga que hay en la frase es {palabraDeMasLongitud}");
+
+            return palabraDeMasLongitud;
+
+        }
+
+        //6. Crea una función que reciba un número entero y devuelve la suma de sus dígitos.
+        static int SumaDigitos(string num)
+        {
+
+            for (int i = 0; i < num.Length; i++)
+            {
+                if (num[i] )
+
+            }
+
+
+        }
 
     }
 }
