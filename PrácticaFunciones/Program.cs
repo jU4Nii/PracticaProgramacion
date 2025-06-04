@@ -16,8 +16,11 @@ namespace PrácticaFunciones
             //4. int cantidadVocales = ContarVocales("juani");
 
             //5. string palabraReLarga = buscarPalabraMasLarga("A la Pili le encanta el sexo ANAAAAAAAAAL");
-            
 
+            //6. int sumaDeDigitos = SumaDigitos("345");
+
+            int[] tablaMultiplicacion = tablaDeMultiplicar(5);
+            
         }
 
         //1. Crea una función que reciba 2 números y los sume.
@@ -126,16 +129,41 @@ namespace PrácticaFunciones
         }
 
         //6. Crea una función que reciba un número entero y devuelve la suma de sus dígitos.
-        static int SumaDigitos(string num)
+        static int SumaDigitos(string num1)
         {
-
-            for (int i = 0; i < num.Length; i++)
+            int sumarDigitos = 0;
+            for (int i = 0; i < num1.Length; i++)
             {
-                if (num[i] )
+                int num = int.Parse(num1[i].ToString()); 
+                sumarDigitos += num;
 
             }
 
+            Console.WriteLine($"La suma de los digitos de {num1} es {sumarDigitos}");
+            return sumarDigitos;
 
+        }
+
+        //7. Crea una función que devuelva un array con la tabla de multiplicar de un número recibido hasta el 10.
+        static int[] tablaDeMultiplicar(int num)
+        {
+            int[] tablas = new int[10];
+
+            for (int i = 1; i < tablas.Length; i++)
+            {
+
+                int multiplicacion = num * i;
+                tablas[i] = multiplicacion;
+
+            } 
+
+            foreach(int i in tablas)
+            {
+
+                Console.WriteLine(i);
+
+            }
+            return tablas;
         }
 
     }
