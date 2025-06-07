@@ -15,12 +15,23 @@ namespace PrácticaFunciones
 
             //4. int cantidadVocales = ContarVocales("juani");
 
-            //5. string palabraReLarga = buscarPalabraMasLarga("A la Pili le encanta el sexo ANAAAAAAAAAL");
+            //5. string palabraReLarga = buscarPalabraMasLarga("");
 
             //6. int sumaDeDigitos = SumaDigitos("345");
 
-            int[] tablaMultiplicacion = tablaDeMultiplicar(5);
-            
+            //7. int[] tablaMultiplicacion = tablaDeMultiplicar(10);
+
+            //8. int cantLetraEnTexto = ContarLetra("Me llamo Juani", 'q');
+
+            //10. NumerosParesEntreDosValoresDados(5, 9);
+
+            //11. int[] array = { 1, 2, 3, 4, 5, 6,9,19,29213 };
+            //ArregloInverso(array);
+
+            //12. TipoNumero(-1000.003);
+
+            //13. Rectangulo(10, 9);
+
         }
 
         //1. Crea una función que reciba 2 números y los sume.
@@ -149,10 +160,10 @@ namespace PrácticaFunciones
         {
             int[] tablas = new int[10];
 
-            for (int i = 1; i < tablas.Length; i++)
+            for (int i = 0; i < tablas.Length; i++)
             {
 
-                int multiplicacion = num * i;
+                int multiplicacion = num * (i+1);
                 tablas[i] = multiplicacion;
 
             } 
@@ -164,6 +175,78 @@ namespace PrácticaFunciones
 
             }
             return tablas;
+        }
+
+        //8. Crea una función que devuelva cuántas veces aparece una letra específica en un texto.
+        static int ContarLetra(string texto, char letra)
+        {
+            string textoMinuscula = texto.ToLower();
+            char minuscula = char.ToLower(letra);
+
+            int contador = 0;
+
+            for (int i = 0; i<texto.Length; i++)
+            {
+                if (textoMinuscula[i] == minuscula) contador++;
+            }
+            Console.WriteLine($"La letra {letra} aparece {contador} vez/veces en '{texto}'");
+            return contador;
+
+        }
+
+        //10. Función que muestra todos los números pares entre dos valores dados (inclusive).
+        static void NumerosParesEntreDosValoresDados(int num1, int num2)
+        {
+            for (int i = num1; i <= num2; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+        }
+
+        //11. Función que imprime los elementos de un array en orden inverso.
+        static void ArregloInverso(int[] arreglo)
+        {
+            Array.Reverse(arreglo);
+            foreach(int i in arreglo)
+            {
+
+                Console.WriteLine(i);
+
+            }
+        }
+
+        //12. Función que imprime el tipo de número recibido. (Positivo, negativo o cero)
+        static void TipoNumero(double num)
+        {
+
+            if (num > 0) Console.WriteLine("Número positivo");
+            else if (num < 0) Console.WriteLine("Número negativo");
+            else Console.WriteLine("Cero");
+
+        }
+
+        //13. Función que dibuja un rectángulo de ancho x alto usando asteriscos
+        static void Rectangulo(int alto, int ancho)
+        {
+
+            int[,] matriz = new int[alto,ancho];
+
+            for (int i = 0; i < alto; i++)
+            {
+                
+                for (int j = 0; j < ancho; j++)
+                {
+
+                    Console.Write("*");
+
+                }
+                Console.Write("\n");
+
+            }
+
         }
 
     }
