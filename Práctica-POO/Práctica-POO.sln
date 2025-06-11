@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Práctica-POO", "Práctica-POO.csproj", "{BEBD9483-FC7E-45F3-81AE-34A7CE2865C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDeClases", "..\BibliotecaDeClases\BibliotecaDeClases.csproj", "{CC1550F8-CAE7-4FCA-8036-F48580CDADDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEBD9483-FC7E-45F3-81AE-34A7CE2865C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBD9483-FC7E-45F3-81AE-34A7CE2865C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBD9483-FC7E-45F3-81AE-34A7CE2865C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBD9483-FC7E-45F3-81AE-34A7CE2865C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1550F8-CAE7-4FCA-8036-F48580CDADDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1550F8-CAE7-4FCA-8036-F48580CDADDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1550F8-CAE7-4FCA-8036-F48580CDADDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1550F8-CAE7-4FCA-8036-F48580CDADDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71AB451-10CA-4A39-8AD1-F84B9F061833}
+	EndGlobalSection
+EndGlobal

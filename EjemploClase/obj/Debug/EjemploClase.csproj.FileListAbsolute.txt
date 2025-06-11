@@ -1,0 +1,6 @@
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjemploClase\bin\Debug\EjemploClase.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjemploClase\bin\Debug\EjemploClase.pdb
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjemploClase\obj\Debug\EjemploClase.csproj.AssemblyReference.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjemploClase\obj\Debug\EjemploClase.csproj.CoreCompileInputs.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjemploClase\obj\Debug\EjemploClase.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjemploClase\obj\Debug\EjemploClase.pdb
