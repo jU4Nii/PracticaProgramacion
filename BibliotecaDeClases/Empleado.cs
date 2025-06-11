@@ -11,12 +11,19 @@ namespace BibliotecaDeClases
     public class Empleado : Persona
     {
 
+        public Empleado(string Nombre,int edad, string Puesto) : base(Nombre, edad)
+        {
+
+            this.Puesto = Puesto;
+
+        }
+
         public string Puesto {  get; set; }
 
         public void Trabajar()
         {
 
-            Console.WriteLine($"El empleado {Nombre} trabaja de {Puesto}");
+            Console.WriteLine($"El empleado {Nombre}, de {Edad} años, trabaja de {Puesto}");
 
         }
 

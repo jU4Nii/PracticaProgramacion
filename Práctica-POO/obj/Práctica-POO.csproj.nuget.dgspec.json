@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Práctica-POO\\Práctica-POO.csproj": {}
+    "C:\\GitHub\\PracticaProgramacion\\Práctica-POO\\Práctica-POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+    "C:\\GitHub\\PracticaProgramacion\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectUniqueName": "C:\\GitHub\\PracticaProgramacion\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "projectName": "BibliotecaDeClases",
-        "projectPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectPath": "C:\\GitHub\\PracticaProgramacion\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net472": {
@@ -20,14 +20,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Práctica-POO\\Práctica-POO.csproj": {
+    "C:\\GitHub\\PracticaProgramacion\\Práctica-POO\\Práctica-POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Práctica-POO\\Práctica-POO.csproj",
+        "projectUniqueName": "C:\\GitHub\\PracticaProgramacion\\Práctica-POO\\Práctica-POO.csproj",
         "projectName": "Práctica-POO",
-        "projectPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Práctica-POO\\Práctica-POO.csproj",
+        "projectPath": "C:\\GitHub\\PracticaProgramacion\\Práctica-POO\\Práctica-POO.csproj",
         "packagesPath": "C:\\Users\\juani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Práctica-POO\\obj\\",
+        "outputPath": "C:\\GitHub\\PracticaProgramacion\\Práctica-POO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -42,14 +42,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-                "projectPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
+              "C:\\GitHub\\PracticaProgramacion\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+                "projectPath": "C:\\GitHub\\PracticaProgramacion\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
               }
             }
           }

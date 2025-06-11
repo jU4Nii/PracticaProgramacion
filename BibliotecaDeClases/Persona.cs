@@ -10,7 +10,13 @@ namespace BibliotecaDeClases
     //Agrega un método Saludar() que imprima "Hola, soy {Nombre}".
     public class Persona 
     {
+        public Persona(string Nombre, int Edad)
+        {
+            this.Nombre = Nombre;
 
+            this.Edad = Edad;
+
+        }
         public string Nombre { get; set; }
 
         public int Edad {  get; set; }
@@ -18,7 +24,7 @@ namespace BibliotecaDeClases
         public void Saludar()
         {
 
-            Console.WriteLine($"Hola, soy {Nombre}");
+            Console.WriteLine($"Hola, soy {Nombre} y tengo {Edad} años");
 
         }
 
