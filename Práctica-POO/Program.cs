@@ -32,6 +32,13 @@ namespace Práctica_POO
             Camion mionca = new Camion("Peterbilt", 1000);
             mionca.Conducir();*/
 
+            /*Circulo perez = new Circulo(5);
+            Rectangulo recto = new Rectangulo(2, 5);
+            perez.CalcularArea();
+            recto.CalcularArea();*/
+
+            /*LibroDigital libroDigi = new LibroDigital("El Secreto de mi voz", "Perez", 300, 50, "pdf");
+            libroDigi.MostrarInfo();*/
 
 
         }

@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace BibliotecaDeClases
 {
-    public class Camion : Vehiculo
+    public class Camion : Automovil
     {
-        public Camion(string Marca, float CapacidadCarga)
+        public Camion(string Marca,int CantPuertas, float CapacidadCarga) : base(Marca, CantPuertas)
         {
             this.Marca = Marca;
 
             this.CapacidadCarga = CapacidadCarga;
+
+            this.CantPuertas = CantPuertas;
 
 
         }
@@ -23,9 +25,11 @@ namespace BibliotecaDeClases
 
         }
 
-        public string Marca { get; set; }
+        
 
         public float CapacidadCarga { get; set; }
+
+        
 
 
     }
