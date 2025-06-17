@@ -9,21 +9,23 @@ namespace BibliotecaDeClases
     public class ProductoPerecedero : Producto
     {
 
-        public ProductoPerecedero(string Nombre, int Precio, string FechaCaducidad) : base(Nombre,Precio)
+        public ProductoPerecedero(string Nombre, float Precio, DateTime FechaCaducidad) : base(Nombre,Precio)
         {
 
             this.FechaCaducidad = FechaCaducidad;
 
         }
 
-        public void EstaVencido(string Fecha)
+        public void EstaVencido(DateTime Fecha)
         {
-            
 
+           if (Fecha > FechaCaducidad) Console.WriteLine("El producto está vencido");
+           else if (Fecha < FechaCaducidad) Console.WriteLine("El producto todavía esta en fecha");
+           else Console.WriteLine("Tu producto vence hoy");
 
         }
 
-        public string FechaCaducidad { get; set; }
+        public DateTime FechaCaducidad { get; set; }
 
     }
 }

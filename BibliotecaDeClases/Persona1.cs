@@ -6,21 +6,19 @@ using System.Threading.Tasks;
 
 namespace BibliotecaDeClases
 {
-    public class Producto
+    public class Persona1
     {
-
-        public Producto(string Nombre, float Precio)
+        public Persona1(string Nombre, int DNI)
         {
+
             this.Nombre = Nombre;
 
-            this.Precio = Precio;
-
+            this.DNI = DNI;
 
         }
-
         public string Nombre { get; set; }
 
-        public float Precio { get; set; }
+        public int DNI {  get; set; }
 
     }
 }

@@ -40,6 +40,16 @@ namespace Práctica_POO
             /*LibroDigital libroDigi = new LibroDigital("El Secreto de mi voz", "Perez", 300, 50, "pdf");
             libroDigi.MostrarInfo();*/
 
+            /*ProductoPerecedero Leche = new ProductoPerecedero("Leche", 1200, DateTime.Parse("14 / 08 / 2025"));
+            ProductoElectronico Tv = new ProductoElectronico("Tv Philips", 500000, 220, true);
+
+            Leche.EstaVencido(DateTime.Parse("13/08/2025"));*/
+
+            Estudiante Juani = new Estudiante("Juan Ignacio Bonora", 46044159, 14);
+            Profesor Juani1 = new Profesor("Juan Ignacio Carignano", 34202456, "Programación");
+            Juani.Estudiar();
+            Juani1.Enseñar();
+
 
         }
     }

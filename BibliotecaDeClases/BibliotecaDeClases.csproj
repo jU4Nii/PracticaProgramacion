@@ -45,6 +45,7 @@
     <Compile Include="Automovil.cs" />
     <Compile Include="Camion.cs" />
     <Compile Include="Circulo.cs" />
+    <Compile Include="Estudiante.cs" />
     <Compile Include="Figura.cs" />
     <Compile Include="Gato.cs" />
     <Compile Include="Libro.cs" />
@@ -52,8 +53,11 @@
     <Compile Include="Perro.cs" />
     <Compile Include="Persona.cs" />
     <Compile Include="Empleado.cs" />
+    <Compile Include="Persona1.cs" />
     <Compile Include="Producto.cs" />
+    <Compile Include="ProductoElectronico.cs" />
     <Compile Include="ProductoPerecedero.cs" />
+    <Compile Include="Profesor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rectangulo.cs" />
     <Compile Include="Vehiculo.cs" />
