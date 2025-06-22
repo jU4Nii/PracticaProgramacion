@@ -1,0 +1,6 @@
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\Biblioteca_de_Clases\bin\Debug\Biblioteca_de_Clases.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\Biblioteca_de_Clases\bin\Debug\Biblioteca_de_Clases.pdb
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\Biblioteca_de_Clases\obj\Debug\Biblioteca_de_Clases.csproj.AssemblyReference.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\Biblioteca_de_Clases\obj\Debug\Biblioteca_de_Clases.csproj.CoreCompileInputs.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\Biblioteca_de_Clases\obj\Debug\Biblioteca_de_Clases.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\Biblioteca_de_Clases\obj\Debug\Biblioteca_de_Clases.pdb
