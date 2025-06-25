@@ -39,6 +39,7 @@ namespace MásPrácticaPOO
             }
             */
 
+            /*
             Teclado teclado = new Teclado();
             Monitorr monitor = new Monitorr();
             Impresora impresora = new Impresora();
@@ -52,7 +53,20 @@ namespace MásPrácticaPOO
                 dispositivo.Desconectar();
 
             }
+            */
 
+            PushNotification notificacion = new PushNotification();
+            Email correo = new Email();
+            SMS mensaje = new SMS();
+
+            List<INotificable> listaNotificaciones = new List<INotificable> { notificacion, correo, mensaje };
+
+            foreach (INotificable noti in listaNotificaciones)
+            {
+
+                noti.Notificar("Mensaje");
+
+            }
 
         }
     }
