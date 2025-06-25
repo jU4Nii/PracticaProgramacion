@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MásPrácticaPOO/1.0.0": {
+        "dependencies": {
+          "Biblioteca_De_Clases1": "1.0.0"
+        },
+        "runtime": {
+          "MásPrácticaPOO.dll": {}
+        }
+      },
+      "Biblioteca_De_Clases1/1.0.0": {
+        "runtime": {
+          "Biblioteca_De_Clases1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MásPrácticaPOO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca_De_Clases1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

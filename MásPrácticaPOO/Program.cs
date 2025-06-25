@@ -6,7 +6,7 @@ namespace MásPrácticaPOO
     {
         static void Main(string[] args)
         {
-
+            /*
             TarjetaCredito Visa = new TarjetaCredito("Francisco Osenda", 1234123412341234, 793);
             TransferenciaBancaria MercadoPago = new TransferenciaBancaria("Alias del local", 0000001239123912392);
 
@@ -19,9 +19,40 @@ namespace MásPrácticaPOO
             foreach(IMetodoPago metodo in ListaMetodoDePago)
             {
 
-                
+                metodo.Pagar(Monto);
 
             }
+            */
+
+            /*
+            Paloma paloma = new Paloma();
+            Pez pez = new Pez();   
+            Leon leon = new Leon();
+
+            List<Animal> animales = new List<Animal> { paloma, pez, leon };
+
+            foreach(Animal animal in animales)
+            {
+
+                animal.Movilidad();
+
+            }
+            */
+
+            Teclado teclado = new Teclado();
+            Monitorr monitor = new Monitorr();
+            Impresora impresora = new Impresora();
+
+            List<IConectable> listaDispositivos = new List<IConectable> { teclado, monitor, impresora};
+
+            foreach (IConectable dispositivo in listaDispositivos)
+            {
+
+                dispositivo.Conectar();
+                dispositivo.Desconectar();
+
+            }
+
 
         }
     }
