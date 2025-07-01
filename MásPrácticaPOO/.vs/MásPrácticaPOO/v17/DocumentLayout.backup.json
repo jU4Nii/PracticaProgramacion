@@ -3,29 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\M\u00E1sPr\u00E1cticaPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\heladera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9E24DE5-7C30-4982-AB53-1185C5BC1BC2}|M\u00E1sPr\u00E1cticaPOO.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\m\u00E1spr\u00E1cticapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9E24DE5-7C30-4982-AB53-1185C5BC1BC2}|M\u00E1sPr\u00E1cticaPOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\microondas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\electrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\ioperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\inotificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\licuadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88E1EBBA-0900-4B28-AB10-361B4FD79E9A}|..\\Biblioteca_De_Clases1\\Biblioteca_De_Clases1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\biblioteca_de_clases1\\teclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -41,63 +74,156 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PushNotification.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\PushNotification.cs",
-              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\PushNotification.cs",
-              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\PushNotification.cs",
-              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\PushNotification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Guerrero.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Guerrero.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Guerrero.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Guerrero.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Guerrero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:01:43.916Z",
+              "WhenOpened": "2025-07-01T20:47:13.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SMS.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\SMS.cs",
-              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\SMS.cs",
-              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\SMS.cs",
-              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\SMS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Personaje.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Personaje.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Personaje.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Personaje.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:01:05.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T20:45:33.338Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Email.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Email.cs",
-              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Email.cs",
-              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Email.cs",
-              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Email.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Division.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Division.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Division.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Division.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:00:50.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T20:33:32.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Multiplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Multiplicacion.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Multiplicacion.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Multiplicacion.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Multiplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:30:28.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resta.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Resta.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Resta.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Resta.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Resta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:25:47.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Suma.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Suma.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Suma.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Suma.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Suma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:19:16.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOperacion.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\IOperacion.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\IOperacion.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\IOperacion.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\IOperacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:16:04.482Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "INotificable.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\INotificable.cs",
-              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\INotificable.cs",
-              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\INotificable.cs",
-              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\INotificable.cs",
+              "Title": "Microondas.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Microondas.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Microondas.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Microondas.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Microondas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:06:47.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Heladera.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Heladera.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Heladera.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Heladera.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Heladera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:08:17.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Licuadora.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Licuadora.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Licuadora.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Licuadora.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Licuadora.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:00:10.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T20:02:45.697Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Electrodomestico.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Electrodomestico.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Electrodomestico.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Electrodomestico.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Electrodomestico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:57:41.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\M\u00E1sPr\u00E1cticaPOO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\M\u00E1sPr\u00E1cticaPOO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:03:44.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Monitor.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Monitor.cs",
               "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Monitor.cs",
@@ -105,25 +231,59 @@
               "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Monitor.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T22:46:09.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T22:46:09.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\M\u00E1sPr\u00E1cticaPOO\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\M\u00E1sPr\u00E1cticaPOO\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "PushNotification.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\PushNotification.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\PushNotification.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\PushNotification.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\PushNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T20:03:44.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T23:01:43.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
+              "Title": "SMS.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\SMS.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\SMS.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\SMS.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\SMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:01:05.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "INotificable.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\INotificable.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\INotificable.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\INotificable.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\INotificable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:00:10.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Email.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Email.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Email.cs",
+              "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:00:50.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Teclado.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Teclado.cs",
               "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Teclado.cs",
@@ -131,25 +291,23 @@
               "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Teclado.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T22:46:01.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T22:46:01.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 17,
               "Title": "TarjetaCredito.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\TarjetaCredito.cs",
               "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\TarjetaCredito.cs",
               "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\TarjetaCredito.cs",
               "RelativeToolTip": "..\\Biblioteca_De_Clases1\\TarjetaCredito.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwBgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T20:18:21.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T20:18:21.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "TransferenciaBancaria.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\TransferenciaBancaria.cs",
               "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\TransferenciaBancaria.cs",
@@ -157,12 +315,11 @@
               "RelativeToolTip": "..\\Biblioteca_De_Clases1\\TransferenciaBancaria.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T20:18:46.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T20:18:46.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "Impresora.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\Biblioteca_De_Clases1\\Impresora.cs",
               "RelativeDocumentMoniker": "..\\Biblioteca_De_Clases1\\Impresora.cs",
@@ -170,8 +327,7 @@
               "RelativeToolTip": "..\\Biblioteca_De_Clases1\\Impresora.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T22:45:53.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T22:45:53.443Z"
             }
           ]
         }

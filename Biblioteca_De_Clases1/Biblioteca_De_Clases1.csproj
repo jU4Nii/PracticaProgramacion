@@ -42,18 +42,29 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animal.cs" />
+    <Compile Include="Division.cs" />
+    <Compile Include="Electrodomestico.cs" />
     <Compile Include="Email.cs" />
+    <Compile Include="Guerrero.cs" />
+    <Compile Include="Heladera.cs" />
     <Compile Include="IConectable.cs" />
     <Compile Include="IMetodoPago.cs" />
     <Compile Include="Impresora.cs" />
     <Compile Include="INotificable.cs" />
+    <Compile Include="IOperacion.cs" />
     <Compile Include="Leon.cs" />
+    <Compile Include="Licuadora.cs" />
+    <Compile Include="Microondas.cs" />
     <Compile Include="Monitor.cs" />
+    <Compile Include="Multiplicacion.cs" />
     <Compile Include="Paloma.cs" />
+    <Compile Include="Personaje.cs" />
     <Compile Include="Pez.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PushNotification.cs" />
+    <Compile Include="Resta.cs" />
     <Compile Include="SMS.cs" />
+    <Compile Include="Suma.cs" />
     <Compile Include="TarjetaCredito.cs" />
     <Compile Include="Teclado.cs" />
     <Compile Include="TransferenciaBancaria.cs" />

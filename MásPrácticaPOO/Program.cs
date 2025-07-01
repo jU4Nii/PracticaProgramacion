@@ -55,6 +55,7 @@ namespace MásPrácticaPOO
             }
             */
 
+            /*
             PushNotification notificacion = new PushNotification();
             Email correo = new Email();
             SMS mensaje = new SMS();
@@ -67,6 +68,40 @@ namespace MásPrácticaPOO
                 noti.Notificar("Mensaje");
 
             }
+            */
+
+            /*
+            Heladera heladera = new Heladera();
+            Microondas microondas = new Microondas();
+            Licuadora licuadora = new Licuadora();
+
+            List<Electrodomestico> listaElectrodomesticos = new List<Electrodomestico>{heladera, microondas, licuadora};
+
+            foreach(Electrodomestico electrodomestico in listaElectrodomesticos)
+            {
+
+                electrodomestico.Encender();
+
+            }
+            */
+
+            /*
+            Suma sumar = new Suma();
+            Resta restar = new Resta();
+            Multiplicacion multiplicar = new Multiplicacion();
+            Division dividir = new Division();
+
+            List<IOperacion> listaOperaciones = new List<IOperacion> { sumar,restar, multiplicar, dividir };
+
+            foreach(IOperacion operacion in listaOperaciones)
+            {
+
+                operacion.Calcular(2, 10);
+
+            }
+            */
+
+
 
         }
     }
