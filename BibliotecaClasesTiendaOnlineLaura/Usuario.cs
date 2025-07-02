@@ -9,14 +9,15 @@ namespace BibliotecaClasesTiendaOnlineLaura
     public abstract class Usuario
     {
 
-        public Usuario(string NombreUsuario, int DNI)
+        public Usuario(string Nombre, int DNI)
         {
 
-            this.NombreUsuario = NombreUsuario;
+            this.Nombre = Nombre;
+
             this.DNI = DNI;
         }
 
-        public string NombreUsuario { get; set; }
+        public string Nombre { get; set; }
 
         public int DNI { get; set; }
 

@@ -9,16 +9,16 @@ namespace BibliotecaClasesTiendaOnlineLaura
     public class Producto
     {
 
-        public Producto(string Nombre, double Precio, int CantidadDisponible)
+        public Producto(string NombreProducto, double Precio, int CantidadDisponible)
         {
-            this.Nombre = Nombre;
+            this.NombreProducto = NombreProducto;
 
             this.Precio = Precio;
 
             this.CantidadDisponible = CantidadDisponible;
         }
 
-        public string Nombre { get; set; }
+        public string NombreProducto { get; set; }
 
         public double Precio { get; set; }
 

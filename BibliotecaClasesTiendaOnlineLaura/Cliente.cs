@@ -19,5 +19,7 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         public string Direccion {  get; set; }
 
+        public List<Producto> Carrito { get; set; }
+
     }
 }
