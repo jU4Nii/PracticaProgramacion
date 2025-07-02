@@ -101,6 +101,20 @@ namespace MásPrácticaPOO
             }
             */
 
+            /*
+            Guerrero guerrero1 = new Guerrero("Juani");
+            Mago mago1 = new Mago("Ivo");
+            Arquero arquero1 = new Arquero("Roberto");
+
+            List<Personaje> listaPersonajes = new List<Personaje> { guerrero1, mago1, arquero1 };
+
+            foreach(Personaje personaje in listaPersonajes)
+            {
+
+                personaje.Atacar();
+
+            }
+            */
 
 
         }

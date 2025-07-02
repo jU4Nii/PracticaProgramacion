@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animal.cs" />
+    <Compile Include="Arquero.cs" />
     <Compile Include="Division.cs" />
     <Compile Include="Electrodomestico.cs" />
     <Compile Include="Email.cs" />
@@ -54,6 +55,7 @@
     <Compile Include="IOperacion.cs" />
     <Compile Include="Leon.cs" />
     <Compile Include="Licuadora.cs" />
+    <Compile Include="Mago.cs" />
     <Compile Include="Microondas.cs" />
     <Compile Include="Monitor.cs" />
     <Compile Include="Multiplicacion.cs" />

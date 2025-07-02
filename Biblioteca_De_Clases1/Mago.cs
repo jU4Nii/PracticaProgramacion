@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 
 namespace Biblioteca_De_Clases1
 {
-    public class Guerrero : Personaje
+    public class Mago : Personaje
     {
-        public Guerrero(string Nombre) : base(Nombre)
+        public Mago(string Nombre) : base(Nombre)
         {
-
         }
         public override void Atacar()
         {
-            Console.WriteLine($"{Nombre} atacó con arma");
+            Console.WriteLine($"{Nombre} atacó con hechizo");
         }
 
     }
