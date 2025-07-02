@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioTiendaOnlineLaura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E32C8E30-BE1D-48B6-B2A8-2819BFAD8BA5}|EjercicioTiendaOnlineLaura.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciotiendaonlinelaura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32C8E30-BE1D-48B6-B2A8-2819BFAD8BA5}|EjercicioTiendaOnlineLaura.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32C8E30-BE1D-48B6-B2A8-2819BFAD8BA5}|EjercicioTiendaOnlineLaura.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciotiendaonlinelaura\\ejerciciotiendaonlinelaura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E32C8E30-BE1D-48B6-B2A8-2819BFAD8BA5}|EjercicioTiendaOnlineLaura.csproj|solutionrelative:ejerciciotiendaonlinelaura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B89739-8366-436E-A522-2E3633DDC783}|..\\BibliotecaClasesTiendaOnlineLaura\\BibliotecaClasesTiendaOnlineLaura.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\bibliotecaclasestiendaonlinelaura\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B89739-8366-436E-A522-2E3633DDC783}|..\\BibliotecaClasesTiendaOnlineLaura\\BibliotecaClasesTiendaOnlineLaura.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\bibliotecaclasestiendaonlinelaura\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B89739-8366-436E-A522-2E3633DDC783}|..\\BibliotecaClasesTiendaOnlineLaura\\BibliotecaClasesTiendaOnlineLaura.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\bibliotecaclasestiendaonlinelaura\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaClasesTiendaOnlineLaura\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaClasesTiendaOnlineLaura\\Producto.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaClasesTiendaOnlineLaura\\Producto.cs",
+              "RelativeToolTip": "..\\BibliotecaClasesTiendaOnlineLaura\\Producto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:47:18.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaClasesTiendaOnlineLaura\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaClasesTiendaOnlineLaura\\Usuario.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaClasesTiendaOnlineLaura\\Usuario.cs",
+              "RelativeToolTip": "..\\BibliotecaClasesTiendaOnlineLaura\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:47:18.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaClasesTiendaOnlineLaura\\Cliente.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaClasesTiendaOnlineLaura\\Cliente.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaClasesTiendaOnlineLaura\\Cliente.cs",
+              "RelativeToolTip": "..\\BibliotecaClasesTiendaOnlineLaura\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:47:17.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EjercicioTiendaOnlineLaura",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioTiendaOnlineLaura\\EjercicioTiendaOnlineLaura.csproj",
+              "RelativeDocumentMoniker": "EjercicioTiendaOnlineLaura.csproj",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioTiendaOnlineLaura\\EjercicioTiendaOnlineLaura.csproj",
+              "RelativeToolTip": "EjercicioTiendaOnlineLaura.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T22:47:16.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioTiendaOnlineLaura\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioTiendaOnlineLaura\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:56:49.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
