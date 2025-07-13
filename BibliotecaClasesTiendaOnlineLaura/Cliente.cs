@@ -24,14 +24,17 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         public Carrito CarritoDeUsuario { get; set; }
 
+        public double TotalCompra {  get; set; }
+
         public void AñadirACarrito(Producto producto, int cantidad)
         {
 
+            
             if (producto.CantidadDisponible >= cantidad)
             {
 
                 CarritoDeUsuario.AñadirObjeto(producto, cantidad);
-
+                TotalCompra += producto.Precio;
             }
             else
             {
@@ -41,12 +44,42 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         }
 
-        public void verCarrito()
+        public void VerCarrito()
         {
 
             CarritoDeUsuario.MostrarCarrito();
 
         }
+        
+        public void VerProductos()
+        {
+
+            Console.WriteLine("Catálogo de productos:");
+
+            foreach(Producto producto in Catalogo.ListaProductos)
+            {
+
+                Console.WriteLine($"{producto.NombreProducto} - {producto.CantidadDisponible} unidades");
+
+            }
+
+        }
+
+        public void ConfirmarCompra()
+        {
+
+            Console.WriteLine($"Orden de compra por ${TotalCompra} confirmada. Se adjunta factura de la misma:");
+
+            Console.WriteLine();
+
+            Console.WriteLine("Producto - Precio");
+
+            
+
+
+
+        }
+
 
     }
 }
