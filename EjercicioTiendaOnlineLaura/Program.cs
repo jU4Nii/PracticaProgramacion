@@ -5,7 +5,12 @@ namespace EjercicioTiendaOnlineLaura
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Producto remera = new Producto("Remera", 1245, 3);
+            Cliente juani = new Cliente("juani", 23, 2);
+            juani.AñadirACarrito(remera, 1);
+            juani.verCarrito();
+
+
         }
     }
 }
