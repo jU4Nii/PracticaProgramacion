@@ -116,6 +116,45 @@ namespace MásPrácticaPOO
             }
             */
 
+            /*
+            Documento doc = new Documento("Libro programación");
+            Imagen img = new Imagen("Foto");
+            Video vid = new Video("Película");
+
+            List<IArchivo> listaArchivos = new List<IArchivo>
+            {
+
+                new Documento("Libro matemática"),
+                doc,
+                img,
+                vid
+            };
+
+            foreach(IArchivo archivo in listaArchivos)
+            {
+
+                archivo.Abrir();
+                archivo.Cerrar();
+
+            }
+            */
+
+            /*
+            List<IImprimible> listaImprimibles = new List<IImprimible>
+            {
+                new Factura("FacturaCompra"),
+                new Contrato("ContratoAlquiler"),
+                new Etiqueta("EtiquetaPrecios")
+
+            };
+
+            foreach(IImprimible imprimible in listaImprimibles)
+            {
+
+                imprimible.Imprimir();
+
+            }
+            */
 
         }
     }
