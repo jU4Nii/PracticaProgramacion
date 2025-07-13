@@ -1,0 +1,6 @@
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\BibliotecaClasesTiendaOnlineLaura\bin\Debug\BibliotecaClasesTiendaOnlineLaura.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\BibliotecaClasesTiendaOnlineLaura\bin\Debug\BibliotecaClasesTiendaOnlineLaura.pdb
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\BibliotecaClasesTiendaOnlineLaura\obj\Debug\BibliotecaClasesTiendaOnlineLaura.csproj.AssemblyReference.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\BibliotecaClasesTiendaOnlineLaura\obj\Debug\BibliotecaClasesTiendaOnlineLaura.csproj.CoreCompileInputs.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\BibliotecaClasesTiendaOnlineLaura\obj\Debug\BibliotecaClasesTiendaOnlineLaura.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\BibliotecaClasesTiendaOnlineLaura\obj\Debug\BibliotecaClasesTiendaOnlineLaura.pdb

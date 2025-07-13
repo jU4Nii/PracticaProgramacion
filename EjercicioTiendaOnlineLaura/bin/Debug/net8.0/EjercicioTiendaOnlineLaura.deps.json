@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EjercicioTiendaOnlineLaura/1.0.0": {
+        "dependencies": {
+          "BibliotecaClasesTiendaOnlineLaura": "1.0.0"
+        },
+        "runtime": {
+          "EjercicioTiendaOnlineLaura.dll": {}
+        }
+      },
+      "BibliotecaClasesTiendaOnlineLaura/1.0.0": {
+        "runtime": {
+          "BibliotecaClasesTiendaOnlineLaura.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioTiendaOnlineLaura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaClasesTiendaOnlineLaura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
