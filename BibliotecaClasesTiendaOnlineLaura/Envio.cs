@@ -9,12 +9,15 @@ namespace BibliotecaClasesTiendaOnlineLaura
     public class Envio                                       
     {
 
-        public Envio(string EstadoEnvio)
+        public Envio(string EstadoEnvio, string Direccion)
         {
 
             this.EstadoEnvio = EstadoEnvio;
+            this.Direccion = Direccion;
 
         }
+
+        public string Direccion { get; set; }
 
         public string EstadoEnvio {  get; set; }
 

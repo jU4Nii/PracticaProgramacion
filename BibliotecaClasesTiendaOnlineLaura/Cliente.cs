@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
@@ -9,22 +10,22 @@ namespace BibliotecaClasesTiendaOnlineLaura
 {
     public class Cliente : Usuario
     {
-        public Cliente(string NombreUsuario, int DNI, int ID_Cliente) : base(NombreUsuario, DNI)
+        public Cliente(string NombreUsuario, int DNI) : base(NombreUsuario, DNI)
         {
-
-            this.ID_Cliente = ID_Cliente;
+            this.ID_Cliente = contadorID;
+            contadorID++;
 
             CarritoDeUsuario = new Carrito();
 
         }
 
-        public int ID_Cliente { get; set; }
+        private static int contadorID = 1;
 
-        public string Direccion {  get; set; }
+        public int ID_Cliente { get; private set; }
 
         public Carrito CarritoDeUsuario { get; set; }
 
-        public double TotalCompra {  get; set; }
+        public double SubTotalCompra {  get; set; }
 
         public void AñadirACarrito(Producto producto, int cantidad)
         {
@@ -34,7 +35,7 @@ namespace BibliotecaClasesTiendaOnlineLaura
             {
 
                 CarritoDeUsuario.AñadirObjeto(producto, cantidad);
-                TotalCompra += producto.Precio;
+                SubTotalCompra += producto.Precio;
             }
             else
             {
@@ -65,17 +66,24 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         }
 
-        public void ConfirmarCompra()
+        public void ConfirmarCompra()   
         {
 
-            Console.WriteLine($"Orden de compra por ${TotalCompra} confirmada. Se adjunta factura de la misma:");
+            Console.WriteLine($"Orden de compra confirmada. Se adjunta factura de la misma:");
 
             Console.WriteLine();
 
             Console.WriteLine("Producto - Precio");
 
-            
+            CarritoDeUsuario.GenerarFactura();
 
+            Console.WriteLine($"SubTotal: ${SubTotalCompra}");
+
+            double iva = SubTotalCompra * 0.21;
+
+            Console.WriteLine($"Impuestos: ${iva}");
+
+            Console.WriteLine($"Total: ${SubTotalCompra + iva}");
 
 
         }

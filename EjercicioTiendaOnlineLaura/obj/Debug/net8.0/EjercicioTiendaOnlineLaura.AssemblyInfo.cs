@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjercicioTiendaOnlineLaura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b20485302e03d8cbaae765e230d8d68af2eb3ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bed36271aa8d495dd6eb54e536f387e100371a44")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjercicioTiendaOnlineLaura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjercicioTiendaOnlineLaura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

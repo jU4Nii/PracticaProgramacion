@@ -41,5 +41,18 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         }
 
+        public void GenerarFactura()
+        {
+
+            foreach(Producto p in ListaCarritoUsuario)
+            {
+
+                Console.WriteLine($"{p.NombreProducto} - ${p.Precio}");
+
+            }
+
+
+        }
+
     }
 }
