@@ -27,23 +27,27 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         public double SubTotalCompra {  get; set; }
 
-        public void AñadirACarrito(Producto producto, int cantidad)
+        public void AñadirACarrito(int numProd)
         {
-
-            
-            if (producto.CantidadDisponible >= cantidad)
+            for (int i = 0; i < Catalogo.ListaProductos.Count; i++)
             {
 
-                CarritoDeUsuario.AñadirObjeto(producto, cantidad);
-                SubTotalCompra += producto.Precio;
-            }
-            else
-            {
-                Console.WriteLine($"El producto {producto} no se puede añadir al carrito porque no hay stock de la cantidad solicitada. ({producto.CantidadDisponible} restantes)");
-                Console.WriteLine("Pruebe con otra cantidad o espere a que haya stock.");
+                if (Catalogo.ListaProductos[numProd - 1].CantidadDisponible > 0)
+                {
+
+                    CarritoDeUsuario.AñadirObjeto(Catalogo.ListaProductos[numProd - 1]);
+                    SubTotalCompra += Catalogo.ListaProductos[numProd - 1].Precio;
+
+                }
+                else
+                {
+                    Console.WriteLine($"El producto {Catalogo.ListaProductos[numProd - 1]} no se puede añadir al carrito porque no hay stock");
+
+                }
+
             }
 
-        }
+         }
 
         public void VerCarrito()
         {

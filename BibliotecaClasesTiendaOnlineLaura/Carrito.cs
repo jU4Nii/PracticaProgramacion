@@ -22,10 +22,10 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         public List<int> CantidadesProductosDelCarrito {  get; set; }
 
-        public void AñadirObjeto(Producto producto, int Cantidad)
+        public void AñadirObjeto(Producto producto)
         {
             ListaCarritoUsuario.Add(producto);
-            CantidadesProductosDelCarrito.Add(Cantidad);
+            
 
         }
 
