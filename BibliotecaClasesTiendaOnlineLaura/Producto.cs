@@ -17,8 +17,6 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
             this.CantidadDisponible = CantidadDisponible;
 
-            Catalogo.ListaProductos.Add(this);
-
         }
 
         public string NombreProducto { get; set; }

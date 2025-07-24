@@ -29,8 +29,7 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         public void AñadirACarrito(int numProd)
         {
-            for (int i = 0; i < Catalogo.ListaProductos.Count; i++)
-            {
+           
 
                 if (Catalogo.ListaProductos[numProd - 1].CantidadDisponible > 0)
                 {
@@ -45,7 +44,7 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
                 }
 
-            }
+          
 
          }
 
@@ -70,9 +69,20 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         }
 
-        public void ConfirmarCompra()   
+        public void ConfirmarCompra()
         {
+            for (int i = 0; i < CarritoDeUsuario.ListaCarritoUsuario.Count; i++)
+            {
+                for (int j = 0; j < Catalogo.ListaProductos.Count; j++)
+                {
+                    if (CarritoDeUsuario.ListaCarritoUsuario[i].NombreProducto == Catalogo.ListaProductos[j].NombreProducto)
+                    {
 
+                        Catalogo.ListaProductos[j].CantidadDisponible -= 1;
+
+                    }
+                }
+            }
             Console.WriteLine($"Orden de compra confirmada. Se adjunta factura de la misma:");
 
             Console.WriteLine();
@@ -87,10 +97,29 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
             Console.WriteLine($"Impuestos: ${iva}");
 
-            Console.WriteLine($"Total: ${SubTotalCompra + iva}");
+            double totalCompra = SubTotalCompra + iva;
+        
+            Console.WriteLine($"Total: ${totalCompra}");
+
+            Factura factura = new Factura(CarritoDeUsuario.ListaCarritoUsuario, SubTotalCompra, iva, totalCompra);
+
+            Console.WriteLine(" ");
+
+            Console.WriteLine("Establezca una dirección para realizar el envio.");
+            Console.WriteLine("Calle y número:");
+            string direc = Console.ReadLine();
+            Envio envio = new Envio(direc);
+            Console.WriteLine($"¡Dirección establecida con éxito! El envio se encuentra {envio.EstadoEnvio}.");
+            Console.WriteLine("¡Gracias por su compra!");
+            
+
+            SubTotalCompra = 0;
+
+            CarritoDeUsuario.ListaCarritoUsuario.Clear();
 
 
         }
+
 
 
     }

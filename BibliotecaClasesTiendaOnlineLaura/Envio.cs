@@ -9,10 +9,10 @@ namespace BibliotecaClasesTiendaOnlineLaura
     public class Envio                                       
     {
 
-        public Envio(string EstadoEnvio, string Direccion)
+        public Envio( string Direccion)
         {
 
-            this.EstadoEnvio = EstadoEnvio;
+            EstadoEnvio = "Pendiente";
             this.Direccion = Direccion;
 
         }
@@ -20,6 +20,8 @@ namespace BibliotecaClasesTiendaOnlineLaura
         public string Direccion { get; set; }
 
         public string EstadoEnvio {  get; set; }
+
+       
 
     }
 }

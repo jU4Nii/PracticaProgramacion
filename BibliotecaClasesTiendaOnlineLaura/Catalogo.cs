@@ -13,6 +13,10 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         public static void InicializarCatalogo()
         {
+            if (ListaProductos.Count > 0) return;
+
+            ListaProductos.Clear();
+
             ListaProductos.Add(new Producto("Gorra Nike", 10000, 4));
             ListaProductos.Add(new Producto("Pantalon deportivo Adidas", 13000, 10));
             ListaProductos.Add(new Producto("Campera polar", 100000, 3));

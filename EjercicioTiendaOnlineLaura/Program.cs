@@ -8,287 +8,278 @@ namespace EjercicioTiendaOnlineLaura
     {
         static void Main(string[] args)
         {
-            Catalogo.InicializarCatalogo();
-            Cliente cliente = null;
+
+            Administrador admin = new Administrador("Juan Ignacio Bonora", 46044159);
 
             Console.WriteLine("¡Bienvenido a la tienda online de Laura!");
 
-            while(cliente == null)
+            Catalogo.InicializarCatalogo();
+            
+            Cliente cliente = null;
+
+            while (true)
             {
-                Console.WriteLine("Seleccione su rol:\n2. Administrador\n3. Salir");
-                string eleccion = Console.ReadLine();
 
                 
+                if(cliente == null)
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Seleccione su rol:\n2. Administrador\n3. Salir");
+                    
+                }
+                else
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Seleccione su rol:\n1. Cliente\n2. Administrador\n3. Salir");
+                    
+                }
+                    
+                string eleccionn = Console.ReadLine();
 
-                    switch (eleccion)
+                Console.WriteLine("");
+
+                if (eleccionn == "3")
+                    {
+                    Console.WriteLine("");
+                    Console.WriteLine("Usted salió del programa");
+                    Console.WriteLine("");
+                    break;
+                    }
+                    else
                     {
 
+                            switch (eleccionn)
+                        {
 
-                        case "2":
-                            Console.WriteLine("Opciones:\n1. Ver productos\n2. Agregar nuevo producto\n3. Aumentar stock de un producto existente\n4. Crear cliente\n5. Volver al menu principal");
-                            string eleccionAdmin = Console.ReadLine();
 
-                             while (eleccionAdmin != "5")
-                             {
-    
-                            
-                                switch (eleccionAdmin)
+                            case "2":
+                            if (cliente == null)
+                            {
+                                Console.WriteLine("");
+                                Console.WriteLine("Opciones: Administrador\n1. Ver productos\n2. Agregar nuevo producto\n3. Aumentar stock de un producto existente\n4. Crear cliente\n5. Volver al menu principal");
+                                Console.WriteLine("");
+                            }
+                            else
+                            {
+                                Console.WriteLine("");
+                                Console.WriteLine("Opciones: Administrador\n1. Ver productos\n2. Agregar nuevo producto\n3. Aumentar stock de un producto existente\n5. Volver al menu principal");
+                                Console.WriteLine("");
+                            }
+                                string eleccionAdmin = Console.ReadLine();
+                                while (eleccionAdmin != "5")
                                 {
-                                    case "1":
-                                        Console.WriteLine("");
-                                        Console.WriteLine("Productos en stock");
+
+                                    switch (eleccionAdmin)
+                                    {
+                                        case "1":
+                                            Console.WriteLine("Productos en stock");
+                                            Console.WriteLine("Producto - Cantidad disponible");
+                                            for (int i = 0; i < Catalogo.ListaProductos.Count; i++)
+                                            {
+
+                                                Console.WriteLine($"{Catalogo.ListaProductos[i].NombreProducto} - {Catalogo.ListaProductos[i].CantidadDisponible}");
+
+                                            }
+                                            break;
+                                        case "2":
+                                            Console.WriteLine("A continuación debe ingresar el nombre del producto nuevo:");
+                                            string nombreProdNuevo = Console.ReadLine();
+                                            Console.WriteLine("Ingrese el precio del nuevo producto:");
+                                            string ingresoDeInfo = Console.ReadLine();
+                                            double precioProdNuevo;
+                                            bool conversion1 = double.TryParse(ingresoDeInfo, out precioProdNuevo);
+                                            while (conversion1 == false)
+                                            {
+                                                Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
+                                                ingresoDeInfo = Console.ReadLine();
+                                                conversion1 = double.TryParse(ingresoDeInfo, out precioProdNuevo);
+                                            }
+                                            Console.WriteLine("Ingrese la cantidad disponible actualmente:");
+                                            string ingresoDeInfo1 = Console.ReadLine();
+                                            int cantDisponibleProdNuevo;
+                                            bool conversion2 = int.TryParse(ingresoDeInfo1, out cantDisponibleProdNuevo);
+                                            while (conversion2 == false)
+                                            {
+                                                Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
+                                                ingresoDeInfo1 = Console.ReadLine();
+                                                conversion2 = int.TryParse(ingresoDeInfo1, out cantDisponibleProdNuevo);
+                                            }
+                                            Catalogo.ListaProductos.Add(new Producto(nombreProdNuevo, precioProdNuevo, cantDisponibleProdNuevo));
+                                            Console.WriteLine("Producto añadido exitosamente");
+                                            break;
+
+                                        case "3":
                                         Console.WriteLine("Producto - Cantidad disponible");
                                         for (int i = 0; i < Catalogo.ListaProductos.Count; i++)
                                         {
 
-                                            Console.WriteLine($"{Catalogo.ListaProductos[i].NombreProducto} - {Catalogo.ListaProductos[i].CantidadDisponible}");
+                                            Console.WriteLine($"{i + 1}. {Catalogo.ListaProductos[i].NombreProducto} - {Catalogo.ListaProductos[i].CantidadDisponible}");
+                                            
+                                        }
+                                        Console.WriteLine("Ingrese el número que esta a la izquierda del producto al cual quiere aumentar su stock:");
+                                        string ingresoNumeroIzq = Console.ReadLine();
+                                        int numProductto;
+                                        bool convertir = int.TryParse(ingresoNumeroIzq, out numProductto);
+                                        while(convertir == false)
+                                        {
+                                            Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
+                                            ingresoNumeroIzq = Console.ReadLine();
+                                            convertir = int.TryParse(ingresoNumeroIzq, out numProductto);
+                                        }
+                                        admin.AgregarStock(numProductto);
+                                            
+                                 
+                                            break;
 
-                                        }
-                                        Console.WriteLine(" ");
-                                        break;
-                                    case "2":
-                                        Console.WriteLine("A continuación debe ingresar el nombre del producto nuevo:");
-                                        string nombreProdNuevo = Console.ReadLine();
-                                        Console.WriteLine("Ingrese el precio del nuevo producto:");
-                                        string ingresoDeInfo = Console.ReadLine();
-                                        double precioProdNuevo;
-                                        bool conversion1 = double.TryParse(ingresoDeInfo, out precioProdNuevo);
-                                        while (conversion1 == false)
+                                        case "4":
+                                        if (cliente == null)
                                         {
-                                            Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
-                                            ingresoDeInfo = Console.ReadLine();
-                                            conversion1 = double.TryParse(ingresoDeInfo, out precioProdNuevo);
-                                        }
-                                        Console.WriteLine("Ingrese la cantidad disponible actualmente:");
-                                        string ingresoDeInfo1 = Console.ReadLine();
-                                        int cantDisponibleProdNuevo;
-                                        bool conversion2 = int.TryParse(ingresoDeInfo1, out cantDisponibleProdNuevo);
-                                        while (conversion2 == false)
-                                        {
-                                            Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
-                                            ingresoDeInfo1 = Console.ReadLine();
-                                            conversion2 = int.TryParse(ingresoDeInfo1, out cantDisponibleProdNuevo);
-                                        }
-                                        Catalogo.ListaProductos.Add(new Producto(nombreProdNuevo, precioProdNuevo, cantDisponibleProdNuevo));
-                                        Console.WriteLine("Producto añadido exitosamente");
-                                        break;
-
-                                    case "3":
-                                        Console.WriteLine("Ingrese el nombre del producto al que quiere aumentar stock:");
-                                        string nombreProduc = Console.ReadLine();
-                                        Console.WriteLine("Ingrese la cantidad que quiere añadir:");
-                                        string ingresoDeInfo2 = Console.ReadLine();
-                                        int cant;
-                                        bool conversion3 = int.TryParse(ingresoDeInfo2, out cant);
-                                        while (conversion3 == false)
-                                        {
-                                            Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
-                                            ingresoDeInfo1 = Console.ReadLine();
-                                            conversion3 = int.TryParse(ingresoDeInfo1, out cant);
-                                        }
-                                        for (int i = 0; i < Catalogo.ListaProductos.Count; i++)
-                                        {
-                                            if (nombreProduc == Catalogo.ListaProductos[i].NombreProducto)
+                                            Console.WriteLine("A continuación se le pedirán los datos del nuevo cliente:");
+                                            Console.WriteLine("Ingrese el nombre y apellido:");
+                                            string nombre = Console.ReadLine();
+                                            Console.WriteLine("Ingrese el DNI:");
+                                            string input = Console.ReadLine();
+                                            int DNI;
+                                            bool conversion = int.TryParse(input, out DNI);
+                                            while (conversion == false)
                                             {
-
-                                                Catalogo.ListaProductos[i].CantidadDisponible += cant;
-
+                                                Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
+                                                input = Console.ReadLine();
+                                                conversion = int.TryParse(input, out DNI);
                                             }
+                                            cliente = new Cliente(nombre, DNI);
+                                            Console.WriteLine($"¡El cliente {nombre} fue creado con exito!");
                                         }
-                                        break;
-
-                                    case "4":
-                                        Console.WriteLine("A continuación se le pedirán los datos del nuevo cliente:");
-                                        Console.WriteLine("Ingrese el nombre y apellido:");
-                                        string nombre = Console.ReadLine();
-                                        Console.WriteLine("Ingrese el DNI:");
-                                        string input = Console.ReadLine();
-                                        int DNI;
-                                        bool conversion = int.TryParse(input, out DNI);
-                                        while (conversion == false)
+                                        else
                                         {
-                                            Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
-                                            input = Console.ReadLine();
-                                            conversion = int.TryParse(input, out DNI);
+                                            Console.WriteLine("La opción crear cliente no está disponible porque ya existe uno.");
                                         }
-                                        cliente = new Cliente(nombre, DNI);
-                                        Console.WriteLine($"¡El cliente {nombre} fue creado con exito!");
-                                        break;
-                                default:
-                                    Console.WriteLine("Opción inexistente, pruebe con otro número");
-                                    Console.WriteLine("");
-                                    break;
-                                }
+                                            break;
+                                        
 
+                                        default:
+                                            Console.WriteLine("Opción inexistente, debe elegir alguna de las siguientes:");
+                                            Console.WriteLine("");
+                                            break;
+                                    }
+
+                                if (cliente == null)
+                                {
+                                    Console.WriteLine("");
+                                    Console.WriteLine("Opciones: Administrador\n1. Ver productos\n2. Agregar nuevo producto\n3. Aumentar stock de un producto existente\n4. Crear cliente\n5. Volver al menu principal");
+                                    Console.WriteLine("");
+                                }
+                                else
+                                {
+                                    Console.WriteLine("");
+                                    Console.WriteLine("Opciones: Administrador\n1. Ver productos\n2. Agregar nuevo producto\n3. Aumentar stock de un producto existente\n5. Volver al menu principal");
+                                    Console.WriteLine("");
+                                }
+                                eleccionAdmin = Console.ReadLine();
+
+                            }
+                                break;
+
+                            case "1":
                             if (cliente == null)
                             {
+                                Console.WriteLine("Todavía no se ha creado ningun cliente. Se debe crear uno desde el panel de administrador.");
 
-                                Console.WriteLine("Opciones:\n1. Ver productos\n2. Agregar nuevo producto\n3. Aumentar stock de un producto existente\n4. Crear cliente\n5. Volver al menu principal");
-                                eleccionAdmin = Console.ReadLine();
                             }
                             else
                             {
-                                Console.WriteLine("Opciones:\n1. Ver productos\n2. Agregar nuevo producto\n3. Aumentar stock de un producto existente\n5. Volver al menu principal");
-
-                                eleccionAdmin = Console.ReadLine();
-                                while(eleccionAdmin == "4")
+                                Console.WriteLine("");
+                                Console.WriteLine("Opciones: Cliente\n1. Ver productos disponibles\n2. Agregar productos al carrito\n3. Ver carrito\n4. Confirmar compra\n5. Volver al menu principal");
+                                
+                                string eleccionCliente = Console.ReadLine();
+                                Console.WriteLine("");
+                                while (eleccionCliente != "5")
                                 {
-                                    Console.WriteLine("Ya se ha creado un cliente. Elija otra opción o vuelva al menú principal.");
+
+                                    switch (eleccionCliente)
+                                    {
+                                        case "1":
+                                            Console.WriteLine("");
+                                            Console.WriteLine("Productos disponibles");
+                                            Console.WriteLine("Producto - Precio");
+                                            for (int i = 0; i < Catalogo.ListaProductos.Count; i++)
+                                            {
+                                                if (Catalogo.ListaProductos[i].CantidadDisponible > 0)
+                                                {
+
+                                                    Console.WriteLine($"{Catalogo.ListaProductos[i].NombreProducto} - {Catalogo.ListaProductos[i].Precio}");
+
+                                                }
+
+                                            }
+                                            break;
+
+                                        case "2":
+                                            Console.WriteLine();
+                                            Console.WriteLine("Productos disponibles:");
+                                            Console.WriteLine("   Producto - Precio");
+
+                                            for (int i = 0; i < Catalogo.ListaProductos.Count; i++)
+                                            {
+
+                                                if (Catalogo.ListaProductos[i].CantidadDisponible > 0)
+                                                {
+
+                                                    Console.WriteLine($"{i + 1}. {Catalogo.ListaProductos[i].NombreProducto} - {Catalogo.ListaProductos[i].Precio}");
+
+                                                }
+
+                                            }
+                                            Console.WriteLine("");
+                                            Console.WriteLine("Ingrese el número que esta a la izquierda de un producto para agregarlo al carrito");
+                                            string ingresoNumero = Console.ReadLine();
+                                            int numeroDeProductoQueSeAgrega;
+                                            bool conversion4 = int.TryParse(ingresoNumero, out numeroDeProductoQueSeAgrega);
+                                            while (conversion4 == false)
+                                            {
+                                                Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
+                                                ingresoNumero = Console.ReadLine();
+                                                conversion4 = int.TryParse(ingresoNumero, out numeroDeProductoQueSeAgrega);
+                                            }
+                                            cliente.AñadirACarrito(numeroDeProductoQueSeAgrega);
+                                            break;
+
+                                        case "3":
+
+                                            cliente.VerCarrito();
+
+                                            break;
+
+                                        case "4":
+                                            cliente.ConfirmarCompra();
+                                            break;
+
+                                        default:
+                                            Console.WriteLine("Opción inexistente, debe elegir alguna de las siguientes:");
+
+
+
+                                            Console.WriteLine("");
+                                            break;
+                                    }
                                     Console.WriteLine("");
-                                    Console.WriteLine("Opciones:\n1. Ver productos\n2. Agregar nuevo producto\n3. Aumentar stock de un producto existente\n5. Volver al menu principal");
+                                    Console.WriteLine("Opciones: Cliente\n1. Ver productos disponibles\n2. Agregar productos al carrito\n3. Ver carrito\n4. Confirmar compra\n5. Volver al menu principal");
+                                    eleccionCliente = Console.ReadLine();
                                     Console.WriteLine("");
-                                    eleccionAdmin = Console.ReadLine();
 
                                 }
-
+                                
                             }
+                            break;
 
-                        }
-                        break;
-                        }
-                    
-
-                
-            }
-           
-            
-                Console.WriteLine("Seleccione su rol:\n1. Cliente\n2. Administrador\n3. Salir");
-                string eleccionn = Console.ReadLine();
-
-                switch (eleccionn)
-                {
+                    }
 
 
-                    case "2":
-                        Console.WriteLine("Opciones:\n1. Ver productos\n2. Agregar nuevo producto\n3. Aumentar stock de un producto existente\n4. Crear cliente\n5. Volver al menu principal");
-                        string eleccionAdmin = Console.ReadLine();
-                        switch (eleccionAdmin)
-                        {
-                            case "1":
-                                Console.WriteLine("Productos en stock");
-                                Console.WriteLine("Producto - Cantidad disponible");
-                                for (int i = 0; i < Catalogo.ListaProductos.Count; i++)
-                                {
 
-                                    Console.WriteLine($"{Catalogo.ListaProductos[i].NombreProducto} - {Catalogo.ListaProductos[i].CantidadDisponible}");
-
-                                }
-                                break;
-                            case "2":
-                                Console.WriteLine("A continuación debe ingresar el nombre del producto nuevo:");
-                                string nombreProdNuevo = Console.ReadLine();
-                                Console.WriteLine("Ingrese el precio del nuevo producto:");
-                                string ingresoDeInfo = Console.ReadLine();
-                                double precioProdNuevo;
-                                bool conversion1 = double.TryParse(ingresoDeInfo, out precioProdNuevo);
-                                while (conversion1 == false)
-                                {
-                                    Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
-                                    ingresoDeInfo = Console.ReadLine();
-                                    conversion1 = double.TryParse(ingresoDeInfo, out precioProdNuevo);
-                                }
-                                Console.WriteLine("Ingrese la cantidad disponible actualmente:");
-                                string ingresoDeInfo1 = Console.ReadLine();
-                                int cantDisponibleProdNuevo;
-                                bool conversion2 = int.TryParse(ingresoDeInfo1, out cantDisponibleProdNuevo);
-                                while (conversion2 == false)
-                                {
-                                    Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
-                                    ingresoDeInfo1 = Console.ReadLine();
-                                    conversion2 = int.TryParse(ingresoDeInfo1, out cantDisponibleProdNuevo);
-                                }
-                                Catalogo.ListaProductos.Add(new Producto(nombreProdNuevo, precioProdNuevo, cantDisponibleProdNuevo));
-                                Console.WriteLine("Producto añadido exitosamente");
-                                break;
-
-                            case "3":
-                                Console.WriteLine("Ingrese el nombre del producto al que quiere aumentar stock:");
-                                string nombreProduc = Console.ReadLine();
-                                Console.WriteLine("Ingrese la cantidad que quiere añadir:");
-                                string ingresoDeInfo2 = Console.ReadLine();
-                                int cant;
-                                bool conversion3 = int.TryParse(ingresoDeInfo2, out cant);
-                                while (conversion3 == false)
-                                {
-                                    Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
-                                    ingresoDeInfo1 = Console.ReadLine();
-                                    conversion3 = int.TryParse(ingresoDeInfo1, out cant);
-                                }
-                                for (int i = 0; i < Catalogo.ListaProductos.Count; i++)
-                                {
-                                    if (nombreProduc == Catalogo.ListaProductos[i].NombreProducto)
-                                    {
-
-                                        Catalogo.ListaProductos[i].CantidadDisponible += cant;
-
-                                    }
-                                }
-                                break;
-
-                           
-                        }
-                        break;
-
-                    case "1":
-
-                        Console.WriteLine("Opciones:\n1. Ver productos disponibles\n2. Agregar productos al carrito\n3. Ver carrito\n4. Confirmar compra\n5. Volver al menu principal");
-                        string eleccionCliente = Console.ReadLine();
-                        switch (eleccionCliente)
-                        {
-                            case "1":
-                                Console.WriteLine("Productos disponibles");
-                                Console.WriteLine("Producto - Precio");
-                                for (int i = 0; i < Catalogo.ListaProductos.Count; i++)
-                                {
-                                    if (Catalogo.ListaProductos[i].CantidadDisponible > 0)
-                                    {
-
-                                        Console.WriteLine($"{Catalogo.ListaProductos[i].NombreProducto} - {Catalogo.ListaProductos[i].Precio}");
-
-                                    }
-
-                                }
-                                break;
-
-                            case "2":
-                                Console.WriteLine();
-                                Console.WriteLine("Productos disponibles:");
-                                Console.WriteLine("   Producto - Precio");
-                                string nombreProd = Console.ReadLine();
-                                for (int i = 0; i < Catalogo.ListaProductos.Count; i++)
-                                {
-
-                                    if (Catalogo.ListaProductos[i].CantidadDisponible > 0)
-                                    {
-
-                                        Console.WriteLine($"{i + 1}. {Catalogo.ListaProductos[i].NombreProducto} - {Catalogo.ListaProductos[i].Precio}");
-
-                                    }
-
-                                }
-                                Console.WriteLine();
-                                Console.WriteLine("Ingrese el número que esta a la izquierda de un producto para agregarlo al carrito");
-                                string ingresoNumero = Console.ReadLine();
-                                int numeroDeProductoQueSeAgrega;
-                                bool conversion4 = int.TryParse(ingresoNumero, out numeroDeProductoQueSeAgrega);
-                                while (conversion4 == false)
-                                {
-                                    Console.WriteLine("Valor incorrecto, ingreselo de nuevo:");
-                                    ingresoNumero = Console.ReadLine();
-                                    conversion4 = int.TryParse(ingresoNumero, out numeroDeProductoQueSeAgrega);
-                                }
-                                cliente.AñadirACarrito(numeroDeProductoQueSeAgrega);
-                                break;
-                        }
-                        break;
 
 
                 }
-
-            
-                
-                
-
+            }
             
         }
     }

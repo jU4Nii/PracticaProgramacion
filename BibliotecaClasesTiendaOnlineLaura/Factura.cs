@@ -9,12 +9,12 @@ namespace BibliotecaClasesTiendaOnlineLaura
     public class Factura
     {
 
-        public Factura(List<Producto> ListaProductosFactura, List<double> SubTotales, double Impuestos, double Total)
+        public Factura(List<Producto> ListaProductosFactura, double SubTotal, double Impuestos, double Total)
         {
 
             this.ListaProductosFactura = ListaProductosFactura;
 
-            this.SubTotales = SubTotales;
+            this.SubTotal = SubTotal;
 
             this.Impuestos = Impuestos;
 
@@ -24,7 +24,7 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         public List<Producto> ListaProductosFactura { get; set; }
 
-        public List<double> SubTotales { get; set; }
+        public double SubTotal { get; set; }
 
         public double Impuestos { get; set; }
 

@@ -12,30 +12,31 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
         public Carrito()
         {
+
             ListaCarritoUsuario = new List<Producto>();
 
-            CantidadesProductosDelCarrito = new List<int>();
         }
 
 
         public List<Producto> ListaCarritoUsuario {  get; set; } 
 
-        public List<int> CantidadesProductosDelCarrito {  get; set; }
+       
 
         public void AñadirObjeto(Producto producto)
         {
             ListaCarritoUsuario.Add(producto);
             
 
+
         }
 
         public void MostrarCarrito()
         {
-            Console.WriteLine("Producto - Cantidad");
+            Console.WriteLine("Productos en el carrito:");
 
             for (int i = 0; i < ListaCarritoUsuario.Count; i++)
             {
-                Console.WriteLine($"{ListaCarritoUsuario[i].NombreProducto} - {CantidadesProductosDelCarrito[i]}");
+                Console.WriteLine($"{ListaCarritoUsuario[i].NombreProducto}");
             }
 
 

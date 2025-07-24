@@ -9,17 +9,20 @@ namespace BibliotecaClasesTiendaOnlineLaura
     public class Administrador : Usuario
     {
 
-        public Administrador(string Nombre, int DNI, int ID_Administrador) : base(Nombre, DNI)
+        public Administrador(string Nombre, int DNI) : base(Nombre, DNI)
         {
 
-            this.ID_Administrador = ID_Administrador;
+            this.ID_Administrador = contadorIDAdmin;
+            contadorIDAdmin++;
 
         }
 
-        public int ID_Administrador { get; set; }
+        private static int contadorIDAdmin = 1;
+        public int ID_Administrador { get; private set; }
 
-        public void AgregarStock(Producto producto)
+        public void AgregarStock(int numProducto)
         {
+            Console.WriteLine("Ingrese la cantidad que desea agregar:");
             string input = Console.ReadLine();
             int cantAñadida;
             bool conversion = int.TryParse(input, out cantAñadida);
@@ -32,7 +35,7 @@ namespace BibliotecaClasesTiendaOnlineLaura
 
             }
 
-            producto.CantidadDisponible = producto.CantidadDisponible + cantAñadida;
+            Catalogo.ListaProductos[numProducto-1].CantidadDisponible = Catalogo.ListaProductos[numProducto-1].CantidadDisponible + cantAñadida;
 
         }
 
