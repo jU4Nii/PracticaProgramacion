@@ -1,16 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioEntregableTorneos\\",
+  "WorkspaceRootPath": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\EjercicioEntregableTorneos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52AC3688-F729-4C12-8517-992D7D74BCF4}|EjercicioEntregableTorneos.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejercicioentregabletorneos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52AC3688-F729-4C12-8517-992D7D74BCF4}|EjercicioEntregableTorneos.csproj|c:\\users\\juani\\documents\\github\\practicaprogramacion\\ejercicioentregabletorneos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52AC3688-F729-4C12-8517-992D7D74BCF4}|EjercicioEntregableTorneos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD910CF-C699-4CC3-811C-883D8CF97380}|..\\BibliotecaDeClasesEntregableTorneos\\BibliotecaDeClasesEntregableTorneos.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\bibliotecadeclasesentregabletorneos\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD910CF-C699-4CC3-811C-883D8CF97380}|..\\BibliotecaDeClasesEntregableTorneos\\BibliotecaDeClasesEntregableTorneos.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\bibliotecadeclasesentregabletorneos\\tabladeposiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,43 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TablaDePosiciones.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaDeClasesEntregableTorneos\\TablaDePosiciones.cs",
-              "RelativeDocumentMoniker": "..\\BibliotecaDeClasesEntregableTorneos\\TablaDePosiciones.cs",
-              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaDeClasesEntregableTorneos\\TablaDePosiciones.cs",
-              "RelativeToolTip": "..\\BibliotecaDeClasesEntregableTorneos\\TablaDePosiciones.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T14:29:56.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Partido.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaDeClasesEntregableTorneos\\Partido.cs",
-              "RelativeDocumentMoniker": "..\\BibliotecaDeClasesEntregableTorneos\\Partido.cs",
-              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaDeClasesEntregableTorneos\\Partido.cs",
-              "RelativeToolTip": "..\\BibliotecaDeClasesEntregableTorneos\\Partido.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA/wDkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T14:10:51.367Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioEntregableTorneos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\EjercicioEntregableTorneos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioEntregableTorneos\\Program.cs",
+              "ToolTip": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\EjercicioEntregableTorneos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T13:45:31.358Z",
               "EditorCaption": ""

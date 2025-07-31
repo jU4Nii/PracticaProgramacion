@@ -1,0 +1,6 @@
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaDeClasesEntregableTorneos\bin\Debug\BibliotecaDeClasesEntregableTorneos.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaDeClasesEntregableTorneos\bin\Debug\BibliotecaDeClasesEntregableTorneos.pdb
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaDeClasesEntregableTorneos\obj\Debug\BibliotecaDeClasesEntregableTorneos.csproj.AssemblyReference.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaDeClasesEntregableTorneos\obj\Debug\BibliotecaDeClasesEntregableTorneos.csproj.CoreCompileInputs.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaDeClasesEntregableTorneos\obj\Debug\BibliotecaDeClasesEntregableTorneos.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaDeClasesEntregableTorneos\obj\Debug\BibliotecaDeClasesEntregableTorneos.pdb
