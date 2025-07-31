@@ -11,6 +11,8 @@ namespace BibliotecaDeClasesEntregableTorneos
 
         public static List<Equipo> TablaDeEquipos = new List<Equipo>();
 
+        public static List<string> HistorialDePartidos = new List<string>();
+
         public static void VerEquipos()
         {
 
@@ -25,8 +27,23 @@ namespace BibliotecaDeClasesEntregableTorneos
 
         }
 
+        public static void VerHistorialDePartidos()
+        {
+
+        
+            for (int i = 0; i < HistorialDePartidos.Count; i++)
+            {
+
+                Console.WriteLine($"{HistorialDePartidos[i]}");
+
+
+            }
+
+        }
+
         public static void MostrarTabla()
         {
+            OrdenarTabla();
             Console.WriteLine("Posición: - Equipo: - Puntos: - Goles a favor: - Goles en contra");
             for (int i = 0; i < TablaDeEquipos.Count; i++)
             {

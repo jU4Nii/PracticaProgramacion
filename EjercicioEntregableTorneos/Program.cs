@@ -36,27 +36,73 @@ namespace EjercicioEntregableTorneos
                     string inputEquipo1 = Console.ReadLine();
                     int eleccionEquipo1;
                     bool conversionEquipo1 = int.TryParse(inputEquipo1, out eleccionEquipo1);
-                    while(conversionEquipo1 == false)
+                    while (conversionEquipo1 == false)
                     {
                         Console.WriteLine("Valor incorrecto, ingreselo nuevamente:");
                         inputEquipo1 = Console.ReadLine();
-                        conversionEquipo1 = int.TryParse(inputEquipo1, out  eleccionEquipo1);
+                        conversionEquipo1 = int.TryParse(inputEquipo1, out eleccionEquipo1);
                     }
 
                     Equipo equipo1 = TablaDePosiciones.TablaDeEquipos[eleccionEquipo1 - 1];
                     Console.WriteLine("Elija el equipo visitante:");
+                    var listaParaSegundo = TablaDePosiciones.TablaDeEquipos.Where(x => x != equipo1).ToList();
+                    for (int i = 0; i < listaParaSegundo.Count; i++)
+                    {
+
+                        Console.WriteLine($"{i + 1}. {listaParaSegundo[i].NombreEquipo}");
+
+                    }
                     string inputEquipo2 = Console.ReadLine();
                     int eleccionEquipo2;
                     bool conversionEquipo2 = int.TryParse(inputEquipo2, out eleccionEquipo2);
-                    while (conversionEquipo1 == false)
+                    while (conversionEquipo2 == false)
                     {
                         Console.WriteLine("Valor incorrecto, ingreselo nuevamente:");
                         inputEquipo2 = Console.ReadLine();
                         conversionEquipo2 = int.TryParse(inputEquipo2, out eleccionEquipo2);
                     }
+                    Equipo equipo2 = listaParaSegundo[eleccionEquipo2 - 1];
 
-                    Equipo equipo2 = TablaDePosiciones.TablaDeEquipos[eleccionEquipo2 - 1];
-                    new Partido(equipo1, equipo2);
+                    Partido partido = new Partido(equipo1, equipo2);
+
+                    Console.WriteLine("Ingrese los goles anotados por el equipo 1:");
+                    string inputGolesEquipo1 = Console.ReadLine();
+                    int CantGolesEquipo1;
+                    bool conversionGolesEquipo1 = int.TryParse(inputGolesEquipo1, out CantGolesEquipo1);
+                    while (conversionGolesEquipo1 == false)
+                    {
+                        Console.WriteLine("Valor incorrecto, ingreselo nuevamente:");
+                        inputGolesEquipo1 = Console.ReadLine();
+                        conversionGolesEquipo1 = int.TryParse(inputGolesEquipo1, out CantGolesEquipo1);
+                    }
+
+                    Console.WriteLine("Ingrese los goles anotados por el equipo 2:");
+                    string inputGolesEquipo2 = Console.ReadLine();
+                    int CantGolesEquipo2;
+                    bool conversionGolesEquipo2 = int.TryParse(inputGolesEquipo2, out CantGolesEquipo2);
+                    while (conversionGolesEquipo2 == false)
+                    {
+                        Console.WriteLine("Valor incorrecto, ingreselo nuevamente:");
+                        inputGolesEquipo2 = Console.ReadLine();
+                        conversionGolesEquipo2 = int.TryParse(inputGolesEquipo2, out CantGolesEquipo2);
+                    }
+
+                    partido.RegistrarResultado(CantGolesEquipo1, CantGolesEquipo2);
+
+                    break;
+
+                case "4":
+                    Console.WriteLine("Tabla de posiciones actualizada");
+                    TablaDePosiciones.MostrarTabla();
+                    break;
+                case "5":
+                    Console.WriteLine("Historial de partidos jugados:");
+                    TablaDePosiciones.VerHistorialDePartidos();
+                    break;
+
+                default:
+                    Console.WriteLine("Opción no valida");
+                    break;
             }
 
 

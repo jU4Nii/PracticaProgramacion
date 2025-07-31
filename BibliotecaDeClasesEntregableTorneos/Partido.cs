@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -51,6 +52,11 @@ namespace BibliotecaDeClasesEntregableTorneos
                 Equipo1.Puntos += 1;
                 Equipo2.Puntos += 1;
             }
+
+            string registro = $"{Equipo1.NombreEquipo} {golesEquipo1} - {golesEquipo2} {Equipo2.NombreEquipo}";
+
+            TablaDePosiciones.HistorialDePartidos.Add(registro);
+
 
         }
 
