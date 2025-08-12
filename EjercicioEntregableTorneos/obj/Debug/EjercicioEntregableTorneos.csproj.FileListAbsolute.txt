@@ -1,0 +1,11 @@
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioEntregableTorneos\bin\Debug\EjercicioEntregableTorneos.exe.config
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioEntregableTorneos\bin\Debug\EjercicioEntregableTorneos.exe
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioEntregableTorneos\bin\Debug\EjercicioEntregableTorneos.pdb
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioEntregableTorneos\bin\Debug\BibliotecaDeClasesEntregableTorneos.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioEntregableTorneos\bin\Debug\BibliotecaDeClasesEntregableTorneos.pdb
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioEntregableTorneos\obj\Debug\EjercicioEntregableTorneos.csproj.AssemblyReference.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioEntregableTorneos\obj\Debug\EjercicioEntregableTorneos.csproj.CoreCompileInputs.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioEntregableTorneos\obj\Debug\Ejercici.8018378B.Up2Date
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioEntregableTorneos\obj\Debug\EjercicioEntregableTorneos.exe
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioEntregableTorneos\obj\Debug\EjercicioEntregableTorneos.pdb
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioEntregableTorneos\obj\Debug\EjercicioEntregableTorneos.exe.config
