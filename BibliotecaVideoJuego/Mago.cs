@@ -25,14 +25,31 @@ namespace BibliotecaVideoJuego
         {
 
             Console.WriteLine($"El mago {this.Nombre} ataca al {personajeAtacado.Tipo} {personajeAtacado.Nombre}");
+            Random random = new Random();
+            int ataqueMago = this.Ataque;
+            if(random.NextDouble() < 0.25)
+            {
+
+                ataqueMago *= 2;
+                Console.WriteLine("¡Daño doble!");
+
+            }
+            int ataqueBackup = this.Ataque;
+
+            this.Ataque = ataqueMago;
+
             personajeAtacado.RecibirDaño(this);
+
+            this.Ataque = ataqueBackup;
 
         }
 
         public override void RecibirDaño(Personaje personajeQueAtaca)
         {
 
-            this.Vida = this.Vida - (personajeQueAtaca.Ataque - this.Defensa);
+            int daño = personajeQueAtaca.Ataque - this.Defensa;
+            if (daño < 0) daño = 0;
+            this.Vida = this.Vida - daño;
 
         }
     }

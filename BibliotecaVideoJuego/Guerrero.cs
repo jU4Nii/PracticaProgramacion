@@ -31,8 +31,9 @@ namespace BibliotecaVideoJuego
 
         public override void RecibirDaño(Personaje personajeQueAtaca)
         {
-            
-            this.Vida = this.Vida - (personajeQueAtaca.Ataque - this.Defensa);
+            int daño = personajeQueAtaca.Ataque - this.Defensa;
+            if (daño < 0) daño = 0;
+            this.Vida = this.Vida - daño;
 
         }
 

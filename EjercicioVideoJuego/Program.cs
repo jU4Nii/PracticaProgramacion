@@ -10,6 +10,9 @@ namespace EjercicioVideoJuego
     {
         static void Main(string[] args)
         {
+
+
+
         }
     }
 }

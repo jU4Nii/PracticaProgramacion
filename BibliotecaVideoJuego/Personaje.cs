@@ -31,7 +31,13 @@ namespace BibliotecaVideoJuego
 
         public int CantidadDeCombates { get; set; }
 
-        public
+        public int CantVictorias { get; set; }
+
+        public int CantDerrotas { get; set; }
+
+        public int DañoTotalInflingido { get; set; }
+
+        public int DañoRecibido { get; set; }
 
         public abstract void Atacar(Personaje personajeAtacado);
 
