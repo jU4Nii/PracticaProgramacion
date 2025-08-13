@@ -29,9 +29,13 @@ namespace BibliotecaVideoJuego
 
         public int Defensa { get; set; }
 
-        public abstract void Atacar(Personaje personajeAtacado, int daño);
+        public int CantidadDeCombates { get; set; }
 
-        public abstract void RecibirDaño(int danio);
+        public
+
+        public abstract void Atacar(Personaje personajeAtacado);
+
+        public abstract void RecibirDaño(Personaje personajeQueAtaca);
         
 
 

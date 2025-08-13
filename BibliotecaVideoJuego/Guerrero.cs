@@ -21,18 +21,18 @@ namespace BibliotecaVideoJuego
 
         
 
-        public override void Atacar(Personaje personajeAtacado, int daño)
+        public override void Atacar(Personaje personajeAtacado)
         {
 
             Console.WriteLine($"El guerrero {this.Nombre} ataca al {personajeAtacado.Tipo} {personajeAtacado.Nombre}");
-            personajeAtacado.RecibirDaño(daño);
+            personajeAtacado.RecibirDaño(this);
 
         }
 
-        public override void RecibirDaño(int Danio)
+        public override void RecibirDaño(Personaje personajeQueAtaca)
         {
             
-            this.Vida = this.Vida - (Danio - this.Defensa);
+            this.Vida = this.Vida - (personajeQueAtaca.Ataque - this.Defensa);
 
         }
 

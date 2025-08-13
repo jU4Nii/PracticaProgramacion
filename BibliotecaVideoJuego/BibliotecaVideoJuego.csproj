@@ -42,7 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arquero.cs" />
+    <Compile Include="Combate.cs" />
     <Compile Include="Guerrero.cs" />
+    <Compile Include="HistorialDeCombates.cs" />
     <Compile Include="Mago.cs" />
     <Compile Include="Personaje.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
