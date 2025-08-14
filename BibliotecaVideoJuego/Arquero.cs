@@ -25,7 +25,22 @@ namespace BibliotecaVideoJuego
         {
 
             Console.WriteLine($"El arquero {this.Nombre} ataca al {personajeAtacado.Tipo} {personajeAtacado.Nombre}");
+            Random random = new Random();
+            int ataqueArquero = this.Ataque;
+            if (random.NextDouble() < 0.25)
+            {
+
+                ataqueArquero *= 2;
+                Console.WriteLine("¡Daño doble!");
+
+            }
+            int ataqueBackup = this.Ataque;
+
+            this.Ataque = ataqueArquero;
+
             personajeAtacado.RecibirDaño(this);
+
+            this.Ataque = ataqueBackup;
 
         }
 

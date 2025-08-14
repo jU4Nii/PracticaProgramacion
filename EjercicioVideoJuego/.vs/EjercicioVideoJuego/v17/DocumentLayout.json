@@ -1,25 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\EjercicioVideoJuego\\",
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioVideoJuego\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43D933F5-BAE0-4557-884B-0C76EC4D642A}|EjercicioVideoJuego.csproj|C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\EjercicioVideoJuego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43D933F5-BAE0-4557-884B-0C76EC4D642A}|EjercicioVideoJuego.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciovideojuego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43D933F5-BAE0-4557-884B-0C76EC4D642A}|EjercicioVideoJuego.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ADF3BE0-F837-4A79-A72A-428E44FBB2E2}|..\\BibliotecaVideoJuego\\BibliotecaVideoJuego.csproj|c:\\users\\juani\\documents\\github\\practicaprogramacion\\bibliotecavideojuego\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ADF3BE0-F837-4A79-A72A-428E44FBB2E2}|..\\BibliotecaVideoJuego\\BibliotecaVideoJuego.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\bibliotecavideojuego\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ADF3BE0-F837-4A79-A72A-428E44FBB2E2}|..\\BibliotecaVideoJuego\\BibliotecaVideoJuego.csproj|c:\\users\\juani\\documents\\github\\practicaprogramacion\\bibliotecavideojuego\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ADF3BE0-F837-4A79-A72A-428E44FBB2E2}|..\\BibliotecaVideoJuego\\BibliotecaVideoJuego.csproj|c:\\users\\juani\\documents\\github\\practicaprogramacion\\bibliotecavideojuego\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ADF3BE0-F837-4A79-A72A-428E44FBB2E2}|..\\BibliotecaVideoJuego\\BibliotecaVideoJuego.csproj|c:\\users\\juani\\documents\\github\\practicaprogramacion\\bibliotecavideojuego\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ADF3BE0-F837-4A79-A72A-428E44FBB2E2}|..\\BibliotecaVideoJuego\\BibliotecaVideoJuego.csproj|c:\\users\\juani\\documents\\github\\practicaprogramacion\\bibliotecavideojuego\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ADF3BE0-F837-4A79-A72A-428E44FBB2E2}|..\\BibliotecaVideoJuego\\BibliotecaVideoJuego.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\bibliotecavideojuego\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,82 +20,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Arquero.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\BibliotecaVideoJuego\\Arquero.cs",
-              "RelativeDocumentMoniker": "..\\BibliotecaVideoJuego\\Arquero.cs",
-              "ToolTip": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\BibliotecaVideoJuego\\Arquero.cs",
-              "RelativeToolTip": "..\\BibliotecaVideoJuego\\Arquero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Mago.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaVideoJuego\\Mago.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaVideoJuego\\Mago.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaVideoJuego\\Mago.cs",
+              "RelativeToolTip": "..\\BibliotecaVideoJuego\\Mago.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T03:44:49.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Guerrero.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\BibliotecaVideoJuego\\Guerrero.cs",
-              "RelativeDocumentMoniker": "..\\BibliotecaVideoJuego\\Guerrero.cs",
-              "ToolTip": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\BibliotecaVideoJuego\\Guerrero.cs",
-              "RelativeToolTip": "..\\BibliotecaVideoJuego\\Guerrero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T03:30:01.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Combate.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\BibliotecaVideoJuego\\Combate.cs",
-              "RelativeDocumentMoniker": "..\\BibliotecaVideoJuego\\Combate.cs",
-              "ToolTip": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\BibliotecaVideoJuego\\Combate.cs",
-              "RelativeToolTip": "..\\BibliotecaVideoJuego\\Combate.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwCEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T03:27:01.245Z",
+              "WhenOpened": "2025-08-13T21:52:29.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Mago.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\BibliotecaVideoJuego\\Mago.cs",
-              "RelativeDocumentMoniker": "..\\BibliotecaVideoJuego\\Mago.cs",
-              "ToolTip": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\BibliotecaVideoJuego\\Mago.cs",
-              "RelativeToolTip": "..\\BibliotecaVideoJuego\\Mago.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDYAAAAFAAAAAAAAAA==",
+              "Title": "Arquero.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaVideoJuego\\Arquero.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaVideoJuego\\Arquero.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\BibliotecaVideoJuego\\Arquero.cs",
+              "RelativeToolTip": "..\\BibliotecaVideoJuego\\Arquero.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T03:15:07.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Personaje.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\BibliotecaVideoJuego\\Personaje.cs",
-              "RelativeDocumentMoniker": "..\\BibliotecaVideoJuego\\Personaje.cs",
-              "ToolTip": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\BibliotecaVideoJuego\\Personaje.cs",
-              "RelativeToolTip": "..\\BibliotecaVideoJuego\\Personaje.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T03:12:57.042Z",
+              "WhenOpened": "2025-08-13T21:51:26.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\EjercicioVideoJuego\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioVideoJuego\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\juani\\Documents\\GitHub\\PracticaProgramacion\\EjercicioVideoJuego\\Program.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioVideoJuego\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T19:43:36.41Z",
               "EditorCaption": ""

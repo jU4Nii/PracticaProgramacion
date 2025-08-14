@@ -24,23 +24,8 @@ namespace BibliotecaVideoJuego
         public override void Atacar(Personaje personajeAtacado)
         {
 
-            Console.WriteLine($"El mago {this.Nombre} ataca al {personajeAtacado.Tipo} {personajeAtacado.Nombre}");
-            Random random = new Random();
-            int ataqueMago = this.Ataque;
-            if(random.NextDouble() < 0.25)
-            {
-
-                ataqueMago *= 2;
-                Console.WriteLine("¡Daño doble!");
-
-            }
-            int ataqueBackup = this.Ataque;
-
-            this.Ataque = ataqueMago;
-
+            Console.WriteLine($"El Mago {this.Nombre} ataca al {personajeAtacado.Tipo} {personajeAtacado.Nombre}");
             personajeAtacado.RecibirDaño(this);
-
-            this.Ataque = ataqueBackup;
 
         }
 
