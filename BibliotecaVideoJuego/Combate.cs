@@ -32,17 +32,20 @@ namespace BibliotecaVideoJuego
         {
             while (Personaje1.Vida > 0 && Personaje2.Vida > 0)
             {
-
+                Console.WriteLine($"Turno de {Personaje1.Nombre}: ¡Atacando!");
                 Personaje1.Atacar(Personaje2);
                 Personaje1.DañoTotalInflingido += (Personaje1.Ataque - Personaje2.Defensa);
                 Personaje2.DañoRecibido += (Personaje1.Ataque - Personaje2.Defensa);
                 if (Personaje2.Vida <= 0) break;
+                Console.WriteLine($"Turno de {Personaje2.Nombre}: ¡Atacando!");
                 Personaje2.Atacar(Personaje1);
                 Personaje2.DañoTotalInflingido += (Personaje2.Ataque - Personaje1.Defensa);
                 Personaje1.DañoRecibido += (Personaje2.Ataque - Personaje1.Defensa);
                 if (Personaje1.Vida <= 0) break;
                 NumeroTurnos++;
 
+                Console.WriteLine($"Vida de {Personaje1.Nombre}: {Personaje1.Vida}");
+                Console.WriteLine($"Vida de {Personaje2.Nombre}: {Personaje2.Vida}");
             }
 
             Personaje1.CantidadDeCombates++;
@@ -55,7 +58,7 @@ namespace BibliotecaVideoJuego
                 Perdedor = Personaje1;
                 Personaje2.CantVictorias++;
                 Personaje1.CantDerrotas++;
-                
+                Console.WriteLine($"¡{Ganador.Nombre} ganador!");
 
             }
             else if (Personaje2.Vida <= 0)
@@ -65,6 +68,7 @@ namespace BibliotecaVideoJuego
                 Perdedor = Personaje2;
                 Personaje1.CantVictorias++;
                 Personaje2.CantDerrotas++;
+                Console.WriteLine($"¡{Ganador.Nombre} ganador!");
 
             }
 

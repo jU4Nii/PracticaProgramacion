@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Arquero.cs" />
     <Compile Include="Combate.cs" />
+    <Compile Include="ControlDePersonajes.cs" />
     <Compile Include="Guerrero.cs" />
     <Compile Include="HistorialDeCombates.cs" />
     <Compile Include="Mago.cs" />

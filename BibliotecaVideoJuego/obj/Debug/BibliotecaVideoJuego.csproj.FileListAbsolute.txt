@@ -1,0 +1,6 @@
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaVideoJuego\bin\Debug\BibliotecaVideoJuego.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaVideoJuego\bin\Debug\BibliotecaVideoJuego.pdb
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaVideoJuego\obj\Debug\BibliotecaVideoJuego.csproj.AssemblyReference.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaVideoJuego\obj\Debug\BibliotecaVideoJuego.csproj.CoreCompileInputs.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaVideoJuego\obj\Debug\BibliotecaVideoJuego.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\BibliotecaVideoJuego\obj\Debug\BibliotecaVideoJuego.pdb

@@ -37,12 +37,15 @@ namespace BibliotecaVideoJuego
 
         public int DañoTotalInflingido { get; set; }
 
+        
+
         public int DañoRecibido { get; set; }
 
         public abstract void Atacar(Personaje personajeAtacado);
 
         public abstract void RecibirDaño(Personaje personajeQueAtaca);
         
+
 
 
     }

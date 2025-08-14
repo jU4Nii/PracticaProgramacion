@@ -5,3 +5,8 @@ C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioVideoJuego\obj\Debug
 C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioVideoJuego\obj\Debug\EjercicioVideoJuego.csproj.CoreCompileInputs.cache
 C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioVideoJuego\obj\Debug\EjercicioVideoJuego.exe
 C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioVideoJuego\obj\Debug\EjercicioVideoJuego.pdb
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioVideoJuego\obj\Debug\EjercicioVideoJuego.csproj.AssemblyReference.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioVideoJuego\obj\Debug\EjercicioVideoJuego.exe.config
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioVideoJuego\obj\Debug\EjercicioVideoJuego.csproj.CoreCompileInputs.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioVideoJuego\obj\Debug\EjercicioVideoJuego.exe
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioVideoJuego\obj\Debug\EjercicioVideoJuego.pdb
