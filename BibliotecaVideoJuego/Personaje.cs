@@ -8,7 +8,7 @@ namespace BibliotecaVideoJuego
 {
     public abstract class Personaje
     {
-        public Personaje(string nombre, int Nivel)
+        public Personaje(string Nombre, int Nivel)
         {
 
             this.Nombre = Nombre;
