@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjercicioSistemaGestionViajes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ce27672a638036ed2caa30723b9224b523190ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bb2aa173e4c0ee60160f72a7b2324423e31f1ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjercicioSistemaGestionViajes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjercicioSistemaGestionViajes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
