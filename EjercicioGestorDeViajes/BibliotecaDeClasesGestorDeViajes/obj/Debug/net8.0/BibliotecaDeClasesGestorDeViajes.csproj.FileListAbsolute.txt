@@ -1,0 +1,12 @@
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\bin\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.deps.json
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\bin\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\bin\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.pdb
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.AssemblyInfoInputs.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.AssemblyInfo.cs
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.csproj.CoreCompileInputs.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.sourcelink.json
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\refint\BibliotecaDeClasesGestorDeViajes.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.pdb
+C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\ref\BibliotecaDeClasesGestorDeViajes.dll

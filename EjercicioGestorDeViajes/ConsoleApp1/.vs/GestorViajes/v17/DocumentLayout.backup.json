@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45AF972A-146B-4BB6-A533-06A4F1E5CB9F}|ConsoleApp1.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciogestordeviajes\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AF972A-146B-4BB6-A533-06A4F1E5CB9F}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B8CAD-1023-4B48-A1C3-E629F6145B1A}|..\\BibliotecaDeClasesGestorDeViajes\\BibliotecaDeClasesGestorDeViajes.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciogestordeviajes\\bibliotecadeclasesgestordeviajes\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B8CAD-1023-4B48-A1C3-E629F6145B1A}|..\\BibliotecaDeClasesGestorDeViajes\\BibliotecaDeClasesGestorDeViajes.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciogestordeviajes\\bibliotecadeclasesgestordeviajes\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B8CAD-1023-4B48-A1C3-E629F6145B1A}|..\\BibliotecaDeClasesGestorDeViajes\\BibliotecaDeClasesGestorDeViajes.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciogestordeviajes\\bibliotecadeclasesgestordeviajes\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B8CAD-1023-4B48-A1C3-E629F6145B1A}|..\\BibliotecaDeClasesGestorDeViajes\\BibliotecaDeClasesGestorDeViajes.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciogestordeviajes\\bibliotecadeclasesgestordeviajes\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B8CAD-1023-4B48-A1C3-E629F6145B1A}|..\\BibliotecaDeClasesGestorDeViajes\\BibliotecaDeClasesGestorDeViajes.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\pr-ctica\\ejerciciogestordeviajes\\bibliotecadeclasesgestordeviajes\\furgoneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\BibliotecaDeClasesGestorDeViajes\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaDeClasesGestorDeViajes\\Motocicleta.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\BibliotecaDeClasesGestorDeViajes\\Motocicleta.cs",
+              "RelativeToolTip": "..\\BibliotecaDeClasesGestorDeViajes\\Motocicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:33:33.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Furgoneta.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\BibliotecaDeClasesGestorDeViajes\\Furgoneta.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaDeClasesGestorDeViajes\\Furgoneta.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\BibliotecaDeClasesGestorDeViajes\\Furgoneta.cs",
+              "RelativeToolTip": "..\\BibliotecaDeClasesGestorDeViajes\\Furgoneta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:31:07.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\BibliotecaDeClasesGestorDeViajes\\Camion.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaDeClasesGestorDeViajes\\Camion.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\BibliotecaDeClasesGestorDeViajes\\Camion.cs",
+              "RelativeToolTip": "..\\BibliotecaDeClasesGestorDeViajes\\Camion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:15:39.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Viaje.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\BibliotecaDeClasesGestorDeViajes\\Viaje.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaDeClasesGestorDeViajes\\Viaje.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\BibliotecaDeClasesGestorDeViajes\\Viaje.cs",
+              "RelativeToolTip": "..\\BibliotecaDeClasesGestorDeViajes\\Viaje.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:12:58.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\BibliotecaDeClasesGestorDeViajes\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaDeClasesGestorDeViajes\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\BibliotecaDeClasesGestorDeViajes\\Vehiculo.cs",
+              "RelativeToolTip": "..\\BibliotecaDeClasesGestorDeViajes\\Vehiculo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:04:33.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Pr-ctica\\EjercicioGestorDeViajes\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv0wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:02:52.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
