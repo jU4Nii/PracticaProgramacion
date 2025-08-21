@@ -10,10 +10,10 @@ namespace BibliotecaDeClasesGestorDeViajes
     {
         //Camión tiene capacidad de carga adicional y método para calcular carga máxima por viaje.
 
-        public Camion(string Placa, int Kilometraje) : base(Placa, Kilometraje)
+        public Camion(string Placa, int Kilometraje, int CargaAdicional) : base(Placa, Kilometraje)
         {
-
-            Tipo = "Camion";
+            this.CargaAdicional = CargaAdicional;
+            Tipo = "Camión";
 
         }
         public int CargaAdicional {  get; set; }

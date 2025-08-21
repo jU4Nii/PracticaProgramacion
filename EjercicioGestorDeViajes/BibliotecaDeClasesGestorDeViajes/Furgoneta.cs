@@ -8,15 +8,15 @@ namespace BibliotecaDeClasesGestorDeViajes
 {
     public class Furgoneta : Vehiculo
     {
-        //Furgoneta: capacidad menor que un camión.
-        public Furgoneta(string Placa, int Kilometraje) : base(Placa, Kilometraje)
+        
+        public Furgoneta(string Placa, int Kilometraje, int CargaAdicional) : base(Placa, Kilometraje)
         {
-
+            this.CargaAdicional = CargaAdicional;
             Tipo = "Furgoneta";
 
         }
 
-
+        public int CargaAdicional { get; set; }
 
     }
 }

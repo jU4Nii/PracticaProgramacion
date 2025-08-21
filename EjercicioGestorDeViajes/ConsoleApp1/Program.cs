@@ -1,5 +1,6 @@
 ﻿using BibliotecaDeClasesGestorDeViajes;
 using Microsoft.VisualBasic;
+using System;
 using System.Security.Cryptography.X509Certificates;
 
 namespace ConsoleApp1
@@ -25,38 +26,62 @@ namespace ConsoleApp1
                             Console.WriteLine("Ingrese la placa del camión:");
                             string Patente = Console.ReadLine();
                             int kilometraje = PedirEntero("Ingrese el kilometraje:");
+                            int carga = PedirEntero("Ingrese la capacidad de carga adicional que tiene el camión:");
+                            Camion camion = new Camion(Patente, kilometraje, carga);
+                            Vehiculo.ListaVehiculos.Add(camion);
                             break;
 
                         case "2":
                             Console.WriteLine("Ingrese la placa de la furgoneta:");
                             Patente = Console.ReadLine();
                             kilometraje = PedirEntero("Ingrese el kilometraje");
+                            carga = PedirEntero("Ingrese la capacidad de carga adicional que tiene la furgoneta:");
+                            Furgoneta furgo = new Furgoneta(Patente, kilometraje, carga);
+                            Vehiculo.ListaVehiculos.Add(furgo);
                             break;
 
                         case "3":
                             Console.WriteLine("Ingrese la placa de la moto:");
                             Patente = Console.ReadLine();
                             kilometraje = PedirEntero("Ingrese el kilometraje");
+                            Motocicleta moto = new Motocicleta(Patente, kilometraje);
+                            Vehiculo.ListaVehiculos.Add(moto);
                             break;
 
                     }
                     break;
 
                 case "2":
-                    Console.WriteLine("Vehículos registrados:");
-                    for(int i = 0; i < Vehiculo.ListaVehiculos.Count; i++)
-                    {
-
-                        Console.WriteLine($"{i+1}. {Vehiculo.ListaVehiculos[i]}");
-
-                    }
+                    MostrarVehiculos();
                     int eleccionVehiculoARegistrarleViaje = PedirEntero("Elija el vehículo al cual necesita registrarle un viaje:");
                     Vehiculo vehiculo = Vehiculo.ListaVehiculos[eleccionVehiculoARegistrarleViaje - 1];
                     int distanciaRecorrida = PedirEntero("Ingrese la distancia recorrida en el viaje:");
-                    int cargaTransportadaEnElViaje = PedirEntero("Ingrese la carga transportada en el viaje");
-                    DateTime fechaDelViaje = PedirFecha("Ingrese la fecha del viaje");
-                    Viaje viajeNuevo = new Viaje(distanciaRecorrida, cargaTransportadaEnElViaje, fechaDelViaje);
-                    Vehiculo.ListaVehiculos[eleccionVehiculoARegistrarleViaje - 1].ListaViajes.Add(viajeNuevo);
+                    if(vehiculo.Tipo == "Camión" || vehiculo.Tipo == "Furgoneta")
+                    {
+
+                        int cargaTransportadaEnElViaje = PedirEntero("Ingrese la carga transportada en el viaje");
+                        DateTime fechaDelViaje = PedirFecha("Ingrese la fecha del viaje");
+                        Viaje viajeNuevo = new Viaje(distanciaRecorrida, fechaDelViaje);
+                        viajeNuevo.AgregarCarga(cargaTransportadaEnElViaje);
+                        vehiculo.AgregarViaje(viajeNuevo);
+
+                    }
+                    else
+                    {
+
+                        DateTime fechaDelViaje = PedirFecha("Ingrese la fecha del viaje");
+                        Viaje viajeNuevo = new Viaje(distanciaRecorrida, fechaDelViaje);
+                        vehiculo.AgregarViaje(viajeNuevo);
+
+
+                    }
+                        break;
+
+                case "3":
+                    MostrarVehiculos();
+                    int eleccionInfoVehiculo = PedirEntero("Elija el vehiculo del cual quiere ver su información:");
+                    Vehiculo vehiculoElegido = Vehiculo.ListaVehiculos[eleccionInfoVehiculo - 1];
+                    if(vehiculoElegido.Tipo == "Camión" || )
                     break;
 
             }
@@ -99,6 +124,37 @@ namespace ConsoleApp1
 
         //Se usa: DateTime fechaViaje = PedirFecha("Ingrese la fecha del viaje (dd/MM/yyyy):");
         //Console.WriteLine("Fecha ingresada: " + fechaViaje.ToShortDateString());
+
+        public static void MostrarVehiculos()
+        {
+            Console.WriteLine("Vehículos registrados:");
+            for (int i = 0; i < Vehiculo.ListaVehiculos.Count; i++)
+            {
+
+                Console.WriteLine($"{i + 1}. {Vehiculo.ListaVehiculos[i]}");
+
+            }
+
+        }
+
+        public static void IngresarString(string mensaje)
+        {
+            string palabra = Console.ReadLine();
+            Console.WriteLine(mensaje);
+            while (palabra == "" || palabra == " " || palabra == "  ")
+            {
+
+                Console.WriteLine("Valor incorrecto, ingreselo nuevamente:");
+
+            }
+
+            return palabra;
+
+
+
+        }
+
+
 
     }
 }

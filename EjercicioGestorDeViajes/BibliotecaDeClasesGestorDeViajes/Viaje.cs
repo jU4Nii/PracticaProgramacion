@@ -10,10 +10,9 @@ namespace BibliotecaDeClasesGestorDeViajes
     {
         //Viaje: clase para registrar cada viaje, con propiedades distancia, cargaTransportada, y fecha.
 
-        public Viaje(int Distancia, int CargaTransportada, DateTime Fecha)
+        public Viaje(int Distancia, DateTime Fecha)
         {
             this.Distancia = Distancia;
-            this.CargaTransportada = CargaTransportada;
             this.Fecha = Fecha;
         }
 
@@ -23,6 +22,11 @@ namespace BibliotecaDeClasesGestorDeViajes
 
         public DateTime Fecha { get ; set; }
 
+        public void AgregarCarga(int carga)
+        {
 
+            this.CargaTransportada = carga;
+
+        }
     }
 }
