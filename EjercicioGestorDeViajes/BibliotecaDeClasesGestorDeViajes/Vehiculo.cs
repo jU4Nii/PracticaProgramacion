@@ -22,7 +22,7 @@
 
         public List<Viaje> ListaViajes { get; set; } = new List<Viaje>();
 
-        public static List<Vehiculo> ListaVehiculo = new List<Vehiculo>();
+        public static List<Vehiculo> ListaVehiculos = new List<Vehiculo>();
 
         public void AgregarViaje(Viaje viajecito)
         {

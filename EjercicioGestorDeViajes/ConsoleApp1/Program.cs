@@ -1,5 +1,6 @@
 ﻿using BibliotecaDeClasesGestorDeViajes;
 using Microsoft.VisualBasic;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ConsoleApp1
 {
@@ -13,6 +14,7 @@ namespace ConsoleApp1
             switch (eleccion)
             {
 
+
                 case "1":
                     Console.WriteLine("Elija el tipo de vehículo que quiere registrar:\n1. Camion\n2. Furgoneta\n3. Motocicleta");
                     string eleccionTipoVehiculo = Console.ReadLine();
@@ -22,79 +24,81 @@ namespace ConsoleApp1
                         case "1":
                             Console.WriteLine("Ingrese la placa del camión:");
                             string Patente = Console.ReadLine();
-                            Console.WriteLine("Ingrese el kilometraje:");
-                            string input = Console.ReadLine();
-                            int Kilometraje;
-                            bool Conversion = int.TryParse(input, out Kilometraje);
-                            while(Conversion == false)
-                            {
-                                Console.WriteLine("Valor incorrecto, ingreselo nuevamente:");
-                                input = Console.ReadLine();
-                                Conversion = int.TryParse(input,out Kilometraje);
-
-                            }
+                            int kilometraje = PedirEntero("Ingrese el kilometraje:");
                             break;
 
                         case "2":
                             Console.WriteLine("Ingrese la placa de la furgoneta:");
                             Patente = Console.ReadLine();
-                            Console.WriteLine("Ingrese el kilometraje:");
-                            input = Console.ReadLine();
-                            
-                            Conversion = int.TryParse(input, out Kilometraje);
-                            while (Conversion == false)
-                            {
-                                Console.WriteLine("Valor incorrecto, ingreselo nuevamente:");
-                                input = Console.ReadLine();
-                                Conversion = int.TryParse(input, out Kilometraje);
-
-                            }
+                            kilometraje = PedirEntero("Ingrese el kilometraje");
                             break;
 
                         case "3":
                             Console.WriteLine("Ingrese la placa de la moto:");
                             Patente = Console.ReadLine();
-                            Console.WriteLine("Ingrese el kilometraje:");
-                            input = Console.ReadLine();
-
-                            Conversion = int.TryParse(input, out Kilometraje);
-                            while (Conversion == false)
-                            {
-                                Console.WriteLine("Valor incorrecto, ingreselo nuevamente:");
-                                input = Console.ReadLine();
-                                Conversion = int.TryParse(input, out Kilometraje);
-
-                            }
+                            kilometraje = PedirEntero("Ingrese el kilometraje");
                             break;
 
                     }
                     break;
 
                 case "2":
-                    Console.WriteLine("Elija el vehículo para el cual quiere registrarle un viaje:");
-                    for(int i = 0; i < Vehiculo.ListaVehiculo.Count; i++)
+                    Console.WriteLine("Vehículos registrados:");
+                    for(int i = 0; i < Vehiculo.ListaVehiculos.Count; i++)
                     {
 
-                        Console.WriteLine($"{i+1}. {Vehiculo.ListaVehiculo[i]}");
+                        Console.WriteLine($"{i+1}. {Vehiculo.ListaVehiculos[i]}");
 
                     }
-                    string input2 = Console.ReadLine();
-                    int eleccion2;
-                    bool conversion2 = int.TryParse(input2, out eleccion2);
-                    while (conversion2 == false)
-                    {
-                        Console.WriteLine("Valor incorrecto, ingreselo nuevamente:");
-                        input2 = Console.ReadLine();
-                        conversion2 = int.TryParse(input2, out eleccion2);
-
-                    }
-                    Vehiculo vehiculo = Vehiculo.ListaVehiculo[eleccion2 - 1];
+                    int eleccionVehiculoARegistrarleViaje = PedirEntero("Elija el vehículo al cual necesita registrarle un viaje:");
+                    Vehiculo vehiculo = Vehiculo.ListaVehiculos[eleccionVehiculoARegistrarleViaje - 1];
+                    int distanciaRecorrida = PedirEntero("Ingrese la distancia recorrida en el viaje:");
+                    int cargaTransportadaEnElViaje = PedirEntero("Ingrese la carga transportada en el viaje");
+                    DateTime fechaDelViaje = PedirFecha("Ingrese la fecha del viaje");
+                    Viaje viajeNuevo = new Viaje(distanciaRecorrida, cargaTransportadaEnElViaje, fechaDelViaje);
+                    Vehiculo.ListaVehiculos[eleccionVehiculoARegistrarleViaje - 1].ListaViajes.Add(viajeNuevo);
                     break;
 
             }
             
-           
+          
 
         }
+
+        public static int PedirEntero(string mensaje)
+        {
+            
+            int num;
+            Console.WriteLine(mensaje);
+            while (int.TryParse(Console.ReadLine(), out num) == false)
+            {
+
+                Console.WriteLine("Valor incorrecto, ingreselo nuevamente:");
+
+            }
+
+            return num;
+
+        }
+
+        public static DateTime PedirFecha(string mensaje)
+        {
+            DateTime fecha;
+            Console.WriteLine(mensaje);
+            string input = Console.ReadLine();
+
+            while (DateTime.TryParseExact(input, "dd/MM/yyyy", null,
+                    System.Globalization.DateTimeStyles.None, out fecha) == false)
+            {
+                Console.WriteLine("Fecha inválida, ingrese nuevamente (dd/MM/yyyy):");
+                input = Console.ReadLine();
+            }
+
+            return fecha;
+        }
+
+        //Se usa: DateTime fechaViaje = PedirFecha("Ingrese la fecha del viaje (dd/MM/yyyy):");
+        //Console.WriteLine("Fecha ingresada: " + fechaViaje.ToShortDateString());
+
     }
 }

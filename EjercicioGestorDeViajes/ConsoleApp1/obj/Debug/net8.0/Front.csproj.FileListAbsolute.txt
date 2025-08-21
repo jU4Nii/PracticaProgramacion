@@ -17,3 +17,12 @@ C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\Conso
 C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\Front.pdb
 C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\Front.genruntimeconfig.cache
 C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\ref\Front.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\Front.csproj.AssemblyReference.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\Front.AssemblyInfoInputs.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\Front.AssemblyInfo.cs
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\Front.csproj.CoreCompileInputs.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\Front.sourcelink.json
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\Front.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\refint\Front.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\ConsoleApp1\obj\Debug\net8.0\Front.pdb

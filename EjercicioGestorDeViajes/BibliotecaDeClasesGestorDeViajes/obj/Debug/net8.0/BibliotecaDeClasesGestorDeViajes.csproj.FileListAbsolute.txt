@@ -10,3 +10,15 @@ C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\Bibli
 C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\refint\BibliotecaDeClasesGestorDeViajes.dll
 C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.pdb
 C:\Users\juani\OneDrive\Documentos\GitHub\Pr-ctica\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\ref\BibliotecaDeClasesGestorDeViajes.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\bin\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.deps.json
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\bin\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\bin\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.pdb
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.AssemblyInfoInputs.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.AssemblyInfo.cs
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.csproj.CoreCompileInputs.cache
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.sourcelink.json
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\refint\BibliotecaDeClasesGestorDeViajes.dll
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\BibliotecaDeClasesGestorDeViajes.pdb
+C:\Users\juani\Documents\GitHub\PracticaProgramacion\EjercicioGestorDeViajes\BibliotecaDeClasesGestorDeViajes\obj\Debug\net8.0\ref\BibliotecaDeClasesGestorDeViajes.dll
