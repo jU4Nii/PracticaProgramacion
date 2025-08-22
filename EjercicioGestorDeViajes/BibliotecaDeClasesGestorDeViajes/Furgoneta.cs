@@ -18,5 +18,20 @@ namespace BibliotecaDeClasesGestorDeViajes
 
         public int CargaAdicional { get; set; }
 
+        public int CargaTotalTransportada()
+        {
+            int cargaTotal = 0;
+            for (int i = 0; i < ListaViajes.Count; i++)
+            {
+
+                cargaTotal += ListaViajes[i].CargaTransportada;
+
+
+            }
+
+            Console.WriteLine($"{cargaTotal}kg");
+            return cargaTotal;
+        }
+
     }
 }

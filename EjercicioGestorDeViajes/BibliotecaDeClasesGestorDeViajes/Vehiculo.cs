@@ -31,7 +31,7 @@
 
         }
 
-        public void CalcularDistanciaTotal()
+        public int CalcularDistanciaTotal()
         {
 
             int distanciaTotal = 0;
@@ -42,7 +42,7 @@
                 distanciaTotal = distanciaTotal + ListaViajes[i].Distancia;
 
             }
-
+            return distanciaTotal;
 
 
         }
